@@ -4,6 +4,15 @@ permalink: "/graduate"
 layout: page
 ---
 
-The world is increasingly globalized, with goods, services, people, and ideas traveling across borders more often, and more quickly, than ever before. Temple University and its College of Liberal Arts are also globalizing, offering students a wide array of majors in the social sciences, humanities, and area studies programs in Asian and Latin American studies.
+## MLA Program Outline
 
-The Global Studies Program is the latest step in the globalization of the College of Liberal Arts.  Starting in the Fall of 2015, Temple graduates can declare a major in Global Studies – an interdisciplinary program bringing together coursework from across a dozen departments, focused on the study of Global Security, Global Economy, and Global Cultures, and complemented by intensive language instruction and study abroad options.
+One of the many reasons the MLA Program is so attractive is its interdisciplinary flexibility in allowing students to develop their own intellectual and career pathways. 
+
+MLA students can choose from a range of courses and disciplines in both the MLA Program or other CLA graduate programs that meet their needs and interests, including: Art History, History, English, Anthropology, Psychology, Philosophy, Sociology, Religion, Political Science, African American Studies, and Geography and Urban Studies.
+
+## Why MLA?
+
+- To participate in a varied and rich student network, across different generations, academic interests, and professional ambitions.
+- To improve your analytical, research, and writing skills.
+- To challenge yourself intellectually.
+- To enhance your current position or open doors to new career possibilities.
