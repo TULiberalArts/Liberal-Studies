@@ -145,3 +145,17 @@ NEWLY ADMITTED DEGREE SEEKING will be registered by the MLA program during the f
 After the first semester of enrollment, all CONTINUING DEGREE SEEKING students should be able to register on their own via Self-Service Banner in TUportal.
 
 General questions or concerns? Contact Dr. Michael Szekely, Assistant Director/Advisor, at mszekely@temple.edu
+
+## Independent Study
+
+Students may register for up to three credits of MLA 9082 Independent Study as part of the MLA Program. Students must submit a proposal to the department under the direction of a faculty sponsor, who will then supervise the Independent Study. The proposal must be submitted the semester before the Independent Study is to be undertaken. The student will be registered by the department for MLA 9082 Independent Study credits once the project is approved.
+
+All Independent Study Proposals must include:
+
+- Independent Study Proposal Request Form
+- Rationale for undertaking the project
+- Anticipated outcomes or goals of the project
+- Works to be studied
+- Frequency of student-instructor meetings
+- Writing assignments
+- Means of assessing the project
