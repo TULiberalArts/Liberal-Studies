@@ -1,7 +1,7 @@
 ---
 title: Home
 permalink: "/"
-layout: page
+layout: home
 ---
 
 Join the hundreds of students who have discovered the benefits of affordable, flexible, and interdisciplinary undergraduate graduate studies in the Liberal Arts.
