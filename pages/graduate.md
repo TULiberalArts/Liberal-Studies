@@ -1,14 +1,24 @@
 ---
 title: Graduate
-permalink: "/graduate"
+permalink: /graduate
 layout: page
+published: true
 ---
 
 ## MLA Program Outline
 
-One of the many reasons the MLA Program is so attractive is its interdisciplinary flexibility in allowing students to develop their own intellectual and career pathways. 
+The hallmark of the MLA Program is its interdisciplinary flexibility in allowing students to develop their own intellectual and career pathways. MLA students can choose from a range of courses and disciplines in both the MLA Program or other CLA graduate programs that meet their needs and interests, including: Art History, History, English, Anthropology, Psychology, Philosophy, Sociology, Religion, Political Science, African American Studies, and Geography and Urban Studies. In addition, the MLA programs affords students the opportunity to: participate in a varied and rich student network, across different generations, academic interests, and professional ambitions; improve their analytical, research, and writing skills; challenge themselves intellectually; enhance their current positions or open doors to new career possibilities.
 
-MLA students can choose from a range of courses and disciplines in both the MLA Program or other CLA graduate programs that meet their needs and interests, including: Art History, History, English, Anthropology, Psychology, Philosophy, Sociology, Religion, Political Science, African American Studies, and Geography and Urban Studies.
+## Academic Offerings
+
+- [Master of Liberal Arts](http://bulletin.temple.edu/graduate/scd/cla/liberal-arts-mla/)
+
+## Program Highlights
+
+- Tailor your own course of study based on your academic interests, professional objectives, and personal goals.
+- Select from a broad range of course offerings, in MLA as well as other graduate programs at Temple University, without being confined to a single department or discipline.
+- Take evening courses at Main Campus or Temple Center City (TUCC).
+- Study with accomplished and energetic faculty in small seminar settings.
 
 ## Why MLA?
 
@@ -27,11 +37,11 @@ Students must enroll during the semester in which they are admitted. Leave of Ab
 
 There are two primary components toward successful completion of the MLA degree: coursework and qualifying paper.
 
-Courses:
+**Courses**:
 
-10 graduate courses (30 credits) are required for the degree.
+- 10 graduate courses (30 credits) are required for the degree.
 
-Of these 10 courses:
+**Of these 10 courses**:
 
 MLA 8011 Introduction to Interdisciplinary Studies is required.
 This course combines a more typical interdisciplinary thematic course with an emphasis on methods and skills for doing research at the graduate level. Ideally, this course will be taken by all incoming MLA students either during the semester of matriculation, or shortly thereafter.
@@ -46,7 +56,7 @@ These courses can be selected from additional MLA courses and/or a wealth of gra
 
 [NOTE: Because the subject matter and areas of focus for MLA courses vary from semester to semester, students are permitted to register for the same course multiple times. This excludes MLA 8011.]
 
-Qualifying Paper:
+## Qualifying Paper:
 
 A Qualifying Paper is required for the degree.
 
@@ -54,7 +64,7 @@ In their last year or last semester, students must complete an essay, or Qualify
 
 For information on the Qualifying Paper, visit: http://www.temple.edu/mla/qualifying/index.html
 
-Graduation:
+## Graduation:
 
 Students intending to graduate in any given semester (or summer) must:
 
@@ -70,9 +80,9 @@ NOTE: Master’s students are no longer required to pay a fee with this applicat
 
 ## Deadlines for submission of graduate application:
 
-For Fall: October 17
-For Spring: February 15
-For Summer: June 1
+- For Fall: October 17
+- For Spring: February 15
+- For Summer: June 1
 
 ## Admission Requirements
 
@@ -80,17 +90,17 @@ Coursework/GPA Required for Admission Consideration:
 
 All applicants must hold a baccalaureate degree from an accredited college or university.  A minimum 3.0 undergraduate GPA is required for admission to graduate study at Temple University.
 
-Transfer of Credit:
+## Transfer of Credit:
 
 Students are expected to complete all of the MLA course requirements at Temple. However, up to six hours of graduate credits may be transferred from another institution with the approval of the MLA Advisory Committee and the Dean of the Graduate School. The credits must be equivalent to coursework offered at Temple, and the grade must be a “B” or better.  The MLA Admissions Committee makes recommendations on transfer credits to the Director of the MLA Program.
 
 The Request for Transfer of Graduate Credit form should be filled out and submitted to the MLA office sometime after matriculation to the program.
 
-Coursework Taken as a Non-Degree Seeking Student:
+## Coursework Taken as a Non-Degree Seeking Student:
 
 Up to nine hours of graduate study taken at Temple prior to admission may be credited toward the degree with the approval of the MLA Advisory Committee and the Dean of the Graduate School. In order for graduate courses taken at Temple as a non-degree seeking student to count toward the degree, the earned grades must be “B” or better.
 
-Application Materials:
+## Application Materials:
 
 1) Completed Application
 
@@ -113,18 +123,20 @@ The Statement of Goals should be approximately 500 to 1,000 words and should add
 
 Official academic transcripts from every college and university attended, including Temple University, should either be sent directly from the college/university to the MLA program or hand-delivered, unopened, to Stephanie Morawski, MLA Coordinator.
 
-Standardized Test Scores:
+## Standardized Test Scores:
+
 The Graduate Record Exam (GRE) or the Miller’s Analogy Test (MAT) is encouraged but not required.  Any student admitted with a TOEFL score below 79 on the internet-based, 550 on the paper-based, or 213 on the computer-based examination must pass an English skills course or successfully pass the SPEAK test during the first semester of enrollment at Temple University.
 
-Application Deadlines:
-For Fall: March 1
+## Application Deadlines:
 
-For Spring: November 1
+- **For Fall**: March 1
+- **For Spring**: November 1
 
-Questions:
-For advice concerning your specific qualifications and plans, please contact Dr. Michael Szekely, MLA Assistant Director/Advisor.
+## Questions:
 
-For specific questions concerning application procedures, please contact Stephanie Morawski, MLA Coordinator.
+For advice concerning your specific qualifications and plans, please contact [Dr. Michael Szekely](mailto:mszekely@temple.edu), MLA Assistant Director/Advisor.
+
+For specific questions concerning application procedures, please contact [Stephanie Morawski](mailto:morawski@temple.edu), MLA Coordinator.
 
 ## Course Offerings
 
@@ -134,9 +146,9 @@ Most MLA courses are usually offered during the evening at Temple University’s
 
 In addition, a number of other graduate courses in the College of Liberal Arts and across the University are offered on Main Campus, typically during the day or early evening. The MLA program also offers "cross-listed" courses with other academic departments.
 
-Registering for courses:
+## Registering for courses:
 
-For general information regarding registration, please go to: http://www.temple.edu/registrar/students/registration/info.asp
+For general information regarding registration, please go to: [http://www.temple.edu/registrar/students/registration/info.asp](http://www.temple.edu/registrar/students/registration/info.asp)
 
 NON-DEGREE SEEKING students interested in registering for MLA courses need to first contact the Office of Continuing Studies (see especially "Graduate Students" section).
 
@@ -144,7 +156,7 @@ NEWLY ADMITTED DEGREE SEEKING will be registered by the MLA program during the f
 
 After the first semester of enrollment, all CONTINUING DEGREE SEEKING students should be able to register on their own via Self-Service Banner in TUportal.
 
-General questions or concerns? Contact Dr. Michael Szekely, Assistant Director/Advisor, at mszekely@temple.edu
+General questions or concerns? Contact Dr. Michael Szekely, Assistant Director/Advisor, at [mszekely@temple.edu](mailto:mszekely@temple.edu)
 
 ## Independent Study
 
