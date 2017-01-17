@@ -1,12 +1,27 @@
 ---
 title: Undergraduate
-permalink: "/undergraduate"
+permalink: /undergraduate
 layout: page
+published: true
 ---
 
 ## BLA Program Overview
 
-The main goal of the Liberal Studies curriculum is to assist students in developing their analytical, critical thinking, reading, writing and research skills, as they progress through a challenging curriculum that is primarily of their own design. The curriculum is a broad-based liberal arts degree, primarily focused on upper division coursework selected by the student in keeping with his/her professional and academic goals. This program is designed to the meet the needs of working adults and offers flexible course scheduling, credits for work experience, and the opportunity to apply transfer credits. All students in the Liberal Studies major will begin their studies with Liberal Arts 2096, Introduction to Liberal Studies and later in the program, all students will take American Studies 2098, Reading Culture. Each student will choose either the Humanities or Social Science track and will then choose a “concentration” within a CLA department.
+The **Bachelor of Arts in Liberal Studies** (BLS) was developed to meet the needs of working adults. You will progress through a challenging curriculum of your own design, while enhancing the analytical, reading, writing, and research skills crucial to any academic or professional career. As a Liberal Studies major, you will also benefit from flexible course scheduling through classroom and online offerings, credits for work experience, and the opportunity to apply credits already awarded to your Temple degree.
+
+## Academic Offerings
+
+- [Bachelor of Arts in Liberal Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/liberal-studies/ba-liberal-studies/)
+
+## Program Highlights
+
+- Design your own plan of study through flexible academic tracks in humanities or social sciences to meet your personal and professional goals 
+- Complete the degree at your own pace 
+- Expand your critical thinking, research and communication skills to excel in your current job, or to take your career to the next level 
+- Up to 78 transfer credits for previous coursework 
+- Up to 6 Credits for Life Experience (CLEX) 
+- Day, evening and/or online courses at any of Temple’s three Philadelphia-area locations (Main, Center City, Ambler) 
+- Affordable tuition
 
 ## Curriculum and Courses
 
@@ -18,7 +33,7 @@ Students must select a track, either Humanities or Social Sciences and follow th
 
 Students select a “concentration” of five courses all taken in a single department in their chosen track, all of which are numbered 2000-4999. If a particular course requires a lower-level prerequisite, this prerequisite is taken in addition to the required upper level courses of their program. Four “breadth” courses selected from other departments within their chosen track. In lieu of the CLA Distribution requirement, students in the Bachelor of Liberal Studies major will take four courses numbered 2000-4999 in the “other” track (Humanities or Social Sciences).
 
-##Example Curricula
+## Example Curricula
 
 Social Science Track with Anthropology Concentration
 
@@ -37,4 +52,3 @@ Social Science Track with Anthropology Concentration
 - GRC 2000-4999 (5 courses)
 - 4 courses in other Humanities  departments
 - 4 courses in Social Science departments (including Interdisciplinary programs)
-
