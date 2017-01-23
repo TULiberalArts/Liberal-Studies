@@ -1,8 +1,17 @@
 ---
 title: Next Stops
-permalink: "/next-stops"
+permalink: /next-stops
 layout: page
+published: true
 ---
+
+## Next Stops
+
+## BLS students: 
+
+Our academic and professional development advisors can help you develop a graduation and employment plan that works for you.
+
+Majoring in Liberal Studies can help you secure internship opportunities and open the door to graduate school programs across various professional fields.
 
 ## MLA students are:
 
