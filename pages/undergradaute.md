@@ -13,16 +13,6 @@ The **[Bachelor of Arts in Liberal Studies](http://www.cla.temple.edu/liberalstu
 
 - [Bachelor of Arts in Liberal Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/liberal-studies/ba-liberal-studies/)
 
-## Program Highlights
-
-- Design your own plan of study through flexible academic tracks in humanities or social sciences to meet your personal and professional goals 
-- Complete the degree at your own pace 
-- Expand your critical thinking, research and communication skills to excel in your current job, or to take your career to the next level 
-- Up to 78 transfer credits for previous coursework 
-- Up to 6 Credits for Life Experience (CLEX) 
-- Day, evening and/or online courses at any of Temple’s three Philadelphia-area locations (Main, Center City, Ambler) 
-- Affordable tuition
-
 ## Curriculum and Courses
 
 All students in the Liberal Studies major begin their studies in Liberal Arts 2096, Introduction to Liberal Studies. This writing intensive, interdisciplinary course brings students together and (re)introduces the idea of academic research, writing, and participation in the academic enterprise. Instructors will select a topic of their choice and examine it from a variety of perspectives and viewpoints in the various disciplines of the liberal arts. This is a new course in the undergraduate curriculum, its graduate counterpart in the Masters of Liberal Arts curriculum is specially designed for the adult learner returning to college after some absence.
