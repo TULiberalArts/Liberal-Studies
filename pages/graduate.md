@@ -31,7 +31,7 @@ The hallmark of the MLA Program is its interdisciplinary flexibility in allowing
 
 NOTE: As per Graduate School Policy #02.25.11 on "Continuous Enrollment/Registration":
 
-"To remain in Academic Good Standing, a graduate student must maintain continuous enrollment (i.e., 1 or more s.h. each Fall and Spring; also in the Summer for those students graduating in the summer) from the semester of matriculation through the semester of graduation" (see: http://www.temple.edu/grad/policies/gradpolicies.htm).
+"To remain in Academic Good Standing, a graduate student must maintain continuous enrollment (i.e., 1 or more s.h. each Fall and Spring; also in the Summer for those students graduating in the summer) from the semester of matriculation through the semester of graduation" (see: [http://www.temple.edu/grad/policies/gradpolicies.htm](http://www.temple.edu/grad/policies/gradpolicies.htm)).
 
 Students must enroll during the semester in which they are admitted. Leave of Absences are not permitted during the first semester of admittance, but may be granted for subsequent semesters. Should a Leave of Absence be necessary, the student must submit a completed Leave of Absence form, plus fee, to the Office of Graduate Affairs, 12th Anderson Hall (Dean's Office).
 
@@ -62,7 +62,7 @@ A Qualifying Paper is required for the degree.
 
 In their last year or last semester, students must complete an essay, or Qualifying Paper (may be a creative project), that represents the culmination of their individual plans of study.   It must demonstrate the student's’ ability to write analytically on a topic of their choice; to read, absorb, evaluate, and cite scholarly thought and research; and to establish and develop a sound perspective on the topic under consideration. 
 
-For information on the Qualifying Paper, visit: http://www.temple.edu/mla/qualifying/index.html
+For information on the Qualifying Paper, visit: [http://www.temple.edu/mla/qualifying/index.html](http://www.temple.edu/mla/qualifying/index.html).
 
 ## Graduation:
 
