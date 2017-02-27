@@ -13,13 +13,6 @@ The hallmark of the MLA Program is its interdisciplinary flexibility in allowing
 
 - [Master of Liberal Arts](http://bulletin.temple.edu/graduate/scd/cla/liberal-arts-mla/)
 
-## Program Highlights
-
-- Tailor your own course of study based on your academic interests, professional objectives, and personal goals.
-- Select from a broad range of course offerings, in MLA as well as other graduate programs at Temple University, without being confined to a single department or discipline.
-- Take evening courses at Main Campus or Temple Center City (TUCC).
-- Study with accomplished and energetic faculty in small seminar settings.
-
 ## Why MLA?
 
 - To participate in a varied and rich student network, across different generations, academic interests, and professional ambitions.
