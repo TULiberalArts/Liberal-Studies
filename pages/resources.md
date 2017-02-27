@@ -146,16 +146,16 @@ Acceptable Paraphrase: More than “merely soil,” land is a “fountain of ene
 
 **For additional handouts on conducting research, using source materials effectively, and avoiding plagiarism, visit:**
 
-http://www.temple.edu/writingctr/handouts/researchandplagiarism/index.html
+[http://www.temple.edu/writingctr/handouts/researchandplagiarism/index.html](http://www.temple.edu/writingctr/handouts/researchandplagiarism/index.html)
 
 For information on different citation styles and guides (e.g. APA, Chicago, MLA), visit:
 
-http://www.temple.edu/writingctr/handouts/citationguides/index.html
+[http://www.temple.edu/writingctr/handouts/citationguides/index.html](http://www.temple.edu/writingctr/handouts/citationguides/index.html)
 
 ## Academic Rights and Responsibilities
 
 Temple University students who believe that instructors are introducing extraneous material into class discussions or that their grades are being affected by their opinions or views that are unrelated to a course’s subject matter can file a complaint under the University’s policy on academic rights and responsibilities. The full policy can be found at:
 
-http://policies.temple.edu/getdoc.asp?policy_no=03.70.02
+[http://policies.temple.edu/getdoc.asp?policy_no=03.70.02](http://policies.temple.edu/getdoc.asp?policy_no=03.70.02)
 
 The policy encourages students to first discuss their concerns with their instructor. If a student is uncomfortable doing so, or if discussions with the instructor do not resolve the student’s concerns, an informal complaint can be made to the Student Ombudsperson for the student’s school or college. Unresolved complaints may be referred to the dean for handling in accordance with the school or college’s established grievance procedure. Final appeals will be determined by the Provost.
