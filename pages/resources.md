@@ -1,21 +1,20 @@
 ---
 title: Resources
-permalink: "/resources/"
+permalink: /resources/
 layout: page
+published: true
 ---
 
 ## Resources here here to help!
 
 ## BLA Resources
 
-Resources/Helpful Links
-
-- [College of Liberal Arts]
-- CLA Center for Academic Advising and Professional Development
-- Temple Admissions/Request to Re-enroll
-- Temple Admissions/Transfer Students
-- Temple University Career Center
-- Undergraduate Bulletin/Course Descriptions
+- [College of Liberal Arts](http://www.cla.temple.edu/)
+- [CLA Center for Academic Advising and Professional Development](http://www.cla.temple.edu/advising/)
+- [Temple Admissions/Request to Re-enroll](http://admissions.temple.edu/apply/request-to-re-enroll)
+- [Temple Admissions/Transfer Students](http://admissions.temple.edu/apply/transfer-applicant)
+- [Temple University Career Center](http://www.temple.edu/provost/careercenter/)
+- [Undergraduate Bulletin/Course Descriptions](http://bulletin.temple.edu/undergraduate/courses/)
 
 ## Frequently Asked Questions
 
@@ -25,7 +24,7 @@ A Bachelor of Arts in Liberal Studies focuses on the development of critical thi
 
 - Who should I contact if I am interested in this program?
 
-The office of Undergraduate Admissions.
+The office of [Undergraduate Admissions](http://admissions.temple.edu/apply).
 
 - What sort of new career opportunities will be available to me with this degree?
 
@@ -33,7 +32,7 @@ In addition to the possibility of a promotion in your current profession, a bach
 
 - How much will this degree cost me? And how does it compare to other regional universities and colleges?
 
-Comparatively, Temple has one of the least expensive per credit rate in the Philadelphia region. For details, please visit the Bursar’s tuition calculator.
+Comparatively, Temple has one of the least expensive per credit rate in the Philadelphia region. For details, please visit the [Bursar’s tuition calculator](http://bursar.temple.edu/tuition-and-fees/tuition-rates).
 
 - Within Liberal Studies, what are my options when choosing a track?  Can I design my own track of study?
 
@@ -53,7 +52,8 @@ The Bachelor of Arts in Liberal Studies has been created for those who never got
 
 ## Contacts/Advising
 
-Center for Academic Advising and Professional Development
+- [Center for Academic Advising and Professional Development](http://www.cla.temple.edu/advising/)
+
 For more information:
 Elizabeth Reynard
 Academic Advisor
@@ -69,39 +69,41 @@ The following web sites may be useful to Master of Liberal Arts students.
 
 ## Temple University Links
 
-The Graduate School at Temple University
-Graduate Admissions
-Graduate Bulletin
-Course Schedule
-College of Liberal Arts
-Temple University Libraries
-Temple Libraries Electronic Resources
-Temple University Center City Campus
-Writing and Reference Guides Online
+- [The Graduate School at Temple University](https://www.temple.edu/grad/)
+- [Graduate Admissions](http://www.temple.edu/grad/admissions/index.htm)
+- [Graduate Bulletin](http://bulletin.temple.edu/)
+- [Course Schedule](https://prd-wlssb.temple.edu/prod8/bwckschd.p_disp_dyn_sched)
+- [College of Liberal Arts](http://liberalarts.temple.edu/)
+- [Temple University Libraries](http://library.temple.edu/asktulibraries)
+- Temple Libraries Electronic Resources
+- [Temple University Center City Campus](http://www.temple.edu/tucc/)
 
-The Craft of Research (recommended!)
-Ten Commandments of Good Historical Writing
-MLA Guide for Writing Research Papers
-Quick Reference Guide to the Chicago Manual of Style
-Chicago Manual of Style Form Guide
-Chicago Style for Internet Sources
-Smithsonian Research
-Library of Congress Online Catalog
-Library of Congress American Memory Viewer Information
-Electronic Archives for Teaching the American Literatures
-Merriam-Webster Online
-Dictionary.com
-YourDictionary.com
-Britannica
-The Blue Book of Grammar and Punctuation
-Common Errors in English
-Guide to Grammar and Style
-More Guidance on Punctuation
-Right Words newsletter articles
-Writer's Guide
-Writing for the Web
-Writing on the Internet
-Plagiarism and Issues of Academic Honesty and Integrity
+## Writing and Reference Guides Online
+
+- The Craft of Research (recommended!)
+- [Ten Commandments of Good Historical Writing](http://personal2.stthomas.edu/gwschlabach/courses/10commnd.htm)
+- MLA Guide for Writing Research Papers
+- [Quick Reference Guide to the Chicago Manual of Style](http://test.library.wwu.edu/ref/chicago.html)
+- Chicago Manual of Style Form Guide
+- [Chicago Style for Internet Sources](http://www.macmillanlearning.com/Catalog/)
+- [Smithsonian Research](http://www.si.edu/)
+- [Library of Congress Online Catalog](https://catalog.loc.gov/)
+- [Library of Congress American Memory Viewer Information](http://memory.loc.gov/ammem/help/view.html)
+- Electronic Archives for Teaching the American Literatures
+- [Merriam-Webster Online](https://www.merriam-webster.com/)
+- [Dictionary.com](http://www.dictionary.com/)
+- [YourDictionary.com](http://www.yourdictionary.com/)
+- [Britannica](https://www.britannica.com/)
+- [The Blue Book of Grammar and Punctuation](http://www.grammarbook.com/)
+- [Common Errors in English](http://public.wsu.edu/~brians/errors/index.html)
+- [Guide to Grammar and Style](http://andromeda.rutgers.edu/~jlynch/Writing/)
+- More Guidance on Punctuation
+- Right Words newsletter articles
+- Writer's Guide
+- Writing for the Web
+- [Writing on the Internet](http://www.webreference.com/internet/writing/index.html)
+
+## Plagiarism and Issues of Academic Honesty and Integrity
 
 As graduate students, candidates in the Master of Liberal Arts program at Temple University are held to the level of academic and scholarly rigor, dedication, and ethics befitting graduate study.  These standards entail high expectations on behalf of the University regarding both the student’s capacity to engage in well-informed critical analysis and the production of new knowledge, and the framework with which to research and apply that knowledge appropriately and ethically.
 
@@ -115,9 +117,7 @@ The penalty for academic dishonesty results in a failing grade for a particular 
 
 Students who believe that they have been unfairly accused may appeal their cases to the College of Liberal Arts’ Graduate Committee through the established academic grievance procedure and, ultimately, to the Graduate Board if academic dismissal has occurred. 
 
-This statement on Academic Honesty can be found online at:
-
-http://www.temple.edu/grad/policies/index.htm
+This statement on Academic Honesty can be found [here](http://www.temple.edu/grad/policies/index.htm). 
 
 ## Citing Sources
 
@@ -127,7 +127,7 @@ Citing does not apply only to quotes.
 
 You do not need to cite information that can be considered common knowledge; if an average person is probably aware of the fact in question, you don’t need a citation. If your information could be easily found in at least three different reliable sources, it is probably common knowledge. When in doubt, cite anyway to be on the safe side.
 
-Paraphrasing
+**Paraphrasing**
 
 You are paraphrasing when you take someone else’s idea and completely rephrase it using your own words. It does NOT mean taking the original quote and replacing a few words here and there, which is considered plagiarism.
 
@@ -144,7 +144,7 @@ Plagiarism: Land is not simply soil; it is a waterfall of energy moving through 
 
 Acceptable Paraphrase: More than “merely soil,” land is a “fountain of energy.” It generates the life cycle, lifting energy upward through plants and animals, receiving it returned through death and decay, absorbing extra energy from outside itself, and storing it to maintain the life cycle (Leopold 212).
 
-For additional handouts on conducting research, using source materials effectively, and avoiding plagiarism, visit:
+**For additional handouts on conducting research, using source materials effectively, and avoiding plagiarism, visit:**
 
 http://www.temple.edu/writingctr/handouts/researchandplagiarism/index.html
 
@@ -152,7 +152,7 @@ For information on different citation styles and guides (e.g. APA, Chicago, MLA)
 
 http://www.temple.edu/writingctr/handouts/citationguides/index.html
 
-Academic Rights and Responsibilities
+## Academic Rights and Responsibilities
 
 Temple University students who believe that instructors are introducing extraneous material into class discussions or that their grades are being affected by their opinions or views that are unrelated to a course’s subject matter can file a complaint under the University’s policy on academic rights and responsibilities. The full policy can be found at:
 
