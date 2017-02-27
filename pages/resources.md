@@ -72,7 +72,7 @@ The following web sites may be useful to Master of Liberal Arts students.
 - [The Graduate School at Temple University](https://www.temple.edu/grad/)
 - [Graduate Admissions](http://www.temple.edu/grad/admissions/index.htm)
 - [Graduate Bulletin](http://bulletin.temple.edu/)
-- [Course Schedule](https://prd-wlssb.temple.edu/prod8/bwckschd.p_disp_dyn_sched)
+- Course Schedule
 - [College of Liberal Arts](http://liberalarts.temple.edu/)
 - [Temple University Libraries](http://library.temple.edu/asktulibraries)
 - Temple Libraries Electronic Resources
