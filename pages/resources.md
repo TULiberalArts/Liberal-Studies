@@ -83,9 +83,9 @@ The following web sites may be useful to Master of Liberal Arts students.
 - The Craft of Research (recommended!)
 - [Ten Commandments of Good Historical Writing](http://personal2.stthomas.edu/gwschlabach/courses/10commnd.htm)
 - MLA Guide for Writing Research Papers
-- [Quick Reference Guide to the Chicago Manual of Style](http://test.library.wwu.edu/ref/chicago.html)
+- Quick Reference Guide to the Chicago Manual of Style
 - Chicago Manual of Style Form Guide
-- [Chicago Style for Internet Sources](http://www.macmillanlearning.com/Catalog/)
+- Chicago Style for Internet Sources
 - [Smithsonian Research](http://www.si.edu/)
 - [Library of Congress Online Catalog](https://catalog.loc.gov/)
 - [Library of Congress American Memory Viewer Information](http://memory.loc.gov/ammem/help/view.html)
@@ -101,7 +101,7 @@ The following web sites may be useful to Master of Liberal Arts students.
 - Right Words newsletter articles
 - Writer's Guide
 - Writing for the Web
-- [Writing on the Internet](http://www.webreference.com/internet/writing/index.html)
+- Writing on the Internet
 
 ## Plagiarism and Issues of Academic Honesty and Integrity
 
@@ -143,14 +143,6 @@ Aldo Leopold, A Sand County Almanac, p. 212
 Plagiarism: Land is not simply soil; it is a waterfall of energy moving through a circuit of soil, plants, and animals. Food chains are the channels that move energy upward; dying and decay return it to the ground. The circle is not closed; some energy is lost in decay, some is added to the air, some is saved in soil, peat, and forests; but it is a continuing circle, like a mutual fund of life.
 
 Acceptable Paraphrase: More than “merely soil,” land is a “fountain of energy.” It generates the life cycle, lifting energy upward through plants and animals, receiving it returned through death and decay, absorbing extra energy from outside itself, and storing it to maintain the life cycle (Leopold 212).
-
-**For additional handouts on conducting research, using source materials effectively, and avoiding plagiarism, visit:**
-
-[http://www.temple.edu/writingctr/handouts/researchandplagiarism/index.html](http://www.temple.edu/writingctr/handouts/researchandplagiarism/index.html)
-
-For information on different citation styles and guides (e.g. APA, Chicago, MLA), visit:
-
-[http://www.temple.edu/writingctr/handouts/citationguides/index.html](http://www.temple.edu/writingctr/handouts/citationguides/index.html)
 
 ## Academic Rights and Responsibilities
 
