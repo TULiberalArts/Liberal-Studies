@@ -15,7 +15,7 @@ The **[Bachelor of Arts in Liberal Studies](http://www.cla.temple.edu/liberalstu
 
 ## Curriculum and Courses
 
-All students in the Liberal Studies major begin their studies in Liberal Arts 2096, Introduction to Liberal Studies. This writing intensive, interdisciplinary course brings students together and (re)introduces the idea of academic research, writing, and participation in the academic enterprise. Instructors will select a topic of their choice and examine it from a variety of perspectives and viewpoints in the various disciplines of the liberal arts. This is a new course in the undergraduate curriculum, its graduate counterpart in the Masters of Liberal Arts curriculum is specially designed for the adult learner returning to college after some absence.
+All students in the [Liberal Studies major](http://bulletin.temple.edu/undergraduate/liberal-arts/liberal-studies/ba-liberal-studies/#requirementstext) begin their studies in Liberal Arts 2096, Introduction to Liberal Studies. This writing intensive, interdisciplinary course brings students together and (re)introduces the idea of academic research, writing, and participation in the academic enterprise. Instructors will select a topic of their choice and examine it from a variety of perspectives and viewpoints in the various disciplines of the liberal arts. This is a new course in the undergraduate curriculum, its graduate counterpart in the Masters of Liberal Arts curriculum is specially designed for the adult learner returning to college after some absence.
 
 Later in their program of study, all Liberal Studies majors will take American Studies 2098, Reading Culture, to complete the second required writing intensive course for the General Education Curriculum. This course will focus on a specific period of American culture and examine various kinds of cultural icons, practices, behaviors and art to determine how the political context influenced the lives of Americans during this period. This course is already offered on a regular basis and is offered by several faculty members in history, English, and American Studies.
 
@@ -23,22 +23,9 @@ Students must select a track, either Humanities or Social Sciences and follow th
 
 Students select a “concentration” of five courses all taken in a single department in their chosen track, all of which are numbered 2000-4999. If a particular course requires a lower-level prerequisite, this prerequisite is taken in addition to the required upper level courses of their program. Four “breadth” courses selected from other departments within their chosen track. In lieu of the CLA Distribution requirement, students in the Bachelor of Liberal Studies major will take four courses numbered 2000-4999 in the “other” track (Humanities or Social Sciences).
 
-## Example Curricula
+## Academic Plan: Humanities and Social Science Track
 
-Social Science Track with Anthropology Concentration
+- [Social Science Track with Anthropology Concentration](http://bulletin.temple.edu/undergraduate/liberal-arts/liberal-studies/ba-liberal-studies/#academicplantext)
+- [Humanities Track with a Greek and Roman Classics Concentration](http://bulletin.temple.edu/undergraduate/liberal-arts/liberal-studies/ba-liberal-studies/#academicplantext)
 
-- LA 2096 Approaches to Liberal Studies
-- PSY 1004 (and 1001) Critical Thinking
-- AMST 2098 Reading Culture
-- ANTH 2000-4999 (5 courses)
-- 4 courses in other Social Science departments (including Interdisciplinary programs)
-- 4 courses in Humanities departments
 
-## Humanities Track with a Greek and Roman Classics Concentration
-
-- LA 2096 Approaches to Liberal Studies
-- PSY 1004 (and 1001) Critical Thinking
-- AMST 2098 Reading Culture
-- GRC 2000-4999 (5 courses)
-- 4 courses in other Humanities  departments
-- 4 courses in Social Science departments (including Interdisciplinary programs)
