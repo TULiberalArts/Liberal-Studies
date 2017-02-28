@@ -27,5 +27,3 @@ Students select a “concentration” of five courses all taken in a single depa
 
 - [Social Science Track with Anthropology Concentration](http://bulletin.temple.edu/undergraduate/liberal-arts/liberal-studies/ba-liberal-studies/#academicplantext)
 - [Humanities Track with a Greek and Roman Classics Concentration](http://bulletin.temple.edu/undergraduate/liberal-arts/liberal-studies/ba-liberal-studies/#academicplantext)
-
-
