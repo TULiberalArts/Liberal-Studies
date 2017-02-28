@@ -5,10 +5,6 @@ layout: page
 published: true
 ---
 
-## Why Choose MLA?
-
-Students choose to pursue a Master of Lberal Arts in order to participate in a varied and rich student network, across different generations, academic interests, and professional ambitions. This program will challenge you intellectually, improve your analytical, research, and writing skills along with enhancements to your current position. A masters degree in Liberal Arts will open doors to new career possibilities.
-
 ## MLA Program Outline
 
 The hallmark of the MLA Program is its interdisciplinary flexibility in allowing students to develop their own intellectual and career pathways. MLA students can choose from a range of courses and disciplines in both the MLA Program or other CLA graduate programs that meet their needs and interests, including: Art History, History, English, Anthropology, Psychology, Philosophy, Sociology, Religion, Political Science, African American Studies, and Geography and Urban Studies. In addition, the MLA programs affords students the opportunity to: participate in a varied and rich student network, across different generations, academic interests, and professional ambitions; improve their analytical, research, and writing skills; challenge themselves intellectually; enhance their current positions or open doors to new career possibilities.
