@@ -16,14 +16,8 @@ The hallmark of the MLA Program is its interdisciplinary flexibility in allowing
 ## Academic Offerings
 
 - [Master of Liberal Arts](http://bulletin.temple.edu/graduate/scd/cla/liberal-arts-mla/)
-
-## Degree Requirements
-
-Please refer to the Graduate Bulletin to read more about the [program requirements](http://bulletin.temple.edu/graduate/scd/cla/liberal-arts-mla/#programrequirementstext). 
-
-## Admission Requiements
-
-Please refer to the Graduate Bulletin to read more about [admission requirements](http://bulletin.temple.edu/graduate/scd/cla/liberal-arts-mla/#admissiontext). 
+- [Program Requirements](http://bulletin.temple.edu/graduate/scd/cla/liberal-arts-mla/#programrequirementstext) 
+- [Admission Requiements](http://bulletin.temple.edu/graduate/scd/cla/liberal-arts-mla/#admissiontext) 
 
 ## Transfer of Credit:
 
@@ -45,19 +39,17 @@ In addition, a number of other graduate courses in the College of Liberal Arts a
 
 ## Registering for courses:
 
-For general information regarding registration, please go to: [http://www.temple.edu/registrar/students/registration/info.asp](http://www.temple.edu/registrar/students/registration/info.asp)
+- **Non-Degree Seeking**__ students interested in registering for MLA courses need to first contact the Office of Continuing Studies (see especially "Graduate Students" section).
 
-- NON-DEGREE SEEKING students interested in registering for MLA courses need to first contact the Office of Continuing Studies (see especially "Graduate Students" section).
-- 
-- NEWLY ADMITTED DEGREE SEEKING will be registered by the MLA program during the first semester of enrollment (to include, barring any complications, MLA 5011 Introduction to Interdisciplinary Studies).
+- **Newly Admitted Degree Seeking**__ students will be registered by the MLA program during the first semester of enrollment (to include, barring any complications, MLA 5011 Introduction to Interdisciplinary Studies).
 
-After the first semester of enrollment, all CONTINUING DEGREE SEEKING students should be able to register on their own via Self-Service Banner in TUportal.
+After the first semester of enrollment, all CONTINUING DEGREE SEEKING students should be able to register on their own via Self-Service Banner in TUportal. For general information regarding registration, please go [here](http://www.temple.edu/registrar/students/registration/info.asp). 
 
 ## Independent Study
 
 Students may register for up to three credits of MLA 9082 Independent Study as part of the MLA Program. Students must submit a proposal to the department under the direction of a faculty sponsor, who will then supervise the Independent Study. The proposal must be submitted the semester before the Independent Study is to be undertaken. The student will be registered by the department for MLA 9082 Independent Study credits once the project is approved.
 
-All Independent Study Proposals must include:
+**All Independent Study Proposals must include:**__
 
 - Independent Study Proposal Request Form
 - Rationale for undertaking the project
