@@ -19,3 +19,29 @@ The Masters of Libearal Arts in Liberal Studies allows graduate level students t
 
 - [Liberal Studies- Bachelor of Arts](http://bulletin.temple.edu/undergraduate/liberal-arts/liberal-studies/ba-liberal-studies/)
 - [Liberal Studies- Master of Liberal Arts](http://bulletin.temple.edu/graduate/scd/cla/liberal-arts-mla/)
+
+<div class="row row-wide">
+  <div class="col m12 l4">{% include cards/card2-image.html 
+    title=" " 
+    content=" " 
+    image="" 
+    button-link=" " 
+    button-text="Learn More" %}
+  </div>
+  <div class="row row-wide">
+    <div class="col m12 l4">{% include cards/card2-image.html 
+      title=" " 
+      content=" " 
+      image="" 
+      button-link=" " 
+      button-text="Learn More" %}
+    </div>
+    <div class="row row-wide">
+      <div class="col m12 l4">{% include cards/card2-image.html 
+        title=" " 
+        content=" " 
+        image="" 
+        button-link=" " 
+        button-text="Learn More" %}
+      </div>
+</div>
