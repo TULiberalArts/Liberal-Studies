@@ -8,7 +8,7 @@ baseurl: /liberal-studies
 # Short tagline for tweets (<100 characters)
 tagline: This is our life's work
 # Longer descriptions for link previews (<250 characters)
-description: 'Example of what the TU Theme will look like and all the wiz-bang things it can do. This Static Site was generated with Jekyll.'
+description: 'The College of Liberal Arts offers a general degree in Liberal Studies for students who are not able to select a single discipline that would meet their professional goals and interests.'
 # List of related keywords for search engines
 keywords: highered, college, university, philadelphia, Temple
 
@@ -18,8 +18,8 @@ address:
   room: 8th Floor, Room 811
   street: 1114 Polett Walk
   city: Philadelphia, PA 19122
-  email: liberal-studies@temple.edu
-  phone: 2152041644
+  email: <a href="mailto:liberal-studies@temple.edu">liberal-studies@temple.edu</a>
+  phone: 215-204-1644
 
 # Social Media
 # Put in only the username unless otherwise noted
