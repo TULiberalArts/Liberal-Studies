@@ -3,8 +3,8 @@ title: Home
 permalink: /
 layout: home
 feature: true
-feature-title: Join the hundreds of students who have discovered the benefits of affordable, flexible, and interdisciplinary undergraduate and graduate studies in the Liberal Arts.
-feature-body: 
+feature-title: 
+feature-body: Join the hundreds of students who have discovered the benefits of affordable, flexible, and interdisciplinary undergraduate and graduate studies in the Liberal Arts.
 feature-image: hero_bg.png
 published: true
 ---
