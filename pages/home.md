@@ -2,10 +2,10 @@
 title: Home
 permalink: /
 layout: home
-feature: false
+feature: true
 feature-title: 
 feature-body: 
-feature-image: 
+feature-image: hero_bg.png
 published: true
 ---
 
