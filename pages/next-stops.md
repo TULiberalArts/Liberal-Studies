@@ -7,13 +7,7 @@ published: true
 
 ## Next Stops
 
-## BLS students: 
-
-Our academic and professional development advisors can help you develop a graduation and employment plan that works for you.
-
-Majoring in Liberal Studies can help you secure internship opportunities and open the door to graduate school programs across various professional fields.
-
-## MLA students are:
+Our academic and professional development advisors can help you develop a graduation and employment plan that works for you. Our students come from and go on to a range of careers.
 
 - Lawyers
 - Teachers
@@ -26,9 +20,14 @@ Majoring in Liberal Studies can help you secure internship opportunities and ope
 - Journalists
 - Photographers
 - Architects
-- Future doctoral candidates
 
-If you are interested in career change or advancement, if you want to prepare for doctoral-level graduate work, or if you just want the academic enrichment and personal fulfillment that graduate study provides, THINK...MLA!
+### BLS Students
+
+Majoring in liberal studies can help you secure internship opportunities and open the door to graduate school programs across various professional fields. 
+
+### MLA Students
+
+If you are interested in career change or advancement, if you want to prepare for doctoral-level graduate work, or if you just want the academic enrichment and personal fulfillment that graduate study provides, think MLA!
 
 ## Make Your Declaration
 
@@ -44,7 +43,7 @@ If you would like to experience the College of Liberal Arts firsthand you can ta
 
 For more information, please go to: [liberalarts.temple.edu/admissions/visit](liberalarts.temple.edu/admissions/visit).
 
-## Thinking Of Transferring?
+## Thinking of Transferring?
 
 The College of Liberal Arts offers a great deal of flexibility to help you accomplish your goals as efficiently as possible.
 
@@ -56,7 +55,7 @@ When you are ready to apply, submit your application online at [admissions.templ
 
 ## Deadlines
 
-- February 1: Freshman Application Deadline for Fall Semester
-- March 1: FAFSA Financial Aid Application Deadline
-- November 1: Transfer Deadline for Spring Semester
-- June 1: Transfer Deadline for Fall Semester
+- **February 1:** Freshman Application Deadline for Fall Semester
+- **March 1:** FAFSA Financial Aid Application Deadline
+- **November 1:** Transfer Deadline for Spring Semester
+- **June 1:** Transfer Deadline for Fall Semester
