@@ -5,7 +5,7 @@ layout: page
 published: true
 ---
 
-## MLA Program Outline
+## MLA Program Overview
 
 The hallmark of the MLA Program is its interdisciplinary flexibility in allowing students to develop their own intellectual and career pathways. MLA students can choose from a range of courses and disciplines in both the MLA Program and other CLA graduate programs that meet their needs and interests, including Art History, History, English, Anthropology, Psychology, Philosophy, Sociology, Religion, Political Science, African American Studies, and Geography and Urban Studies. The MLA Program affords students the opportunity to participate in a varied and rich network, improve their analytical, research, and writing skills, challenge themselves intellectually, and enhance their current positions or open doors to new career possibilities.
 
