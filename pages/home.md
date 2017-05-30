@@ -36,7 +36,7 @@ The Masters of Liberal Arts in Liberal Studies (MLA) allows graduate level stude
         title="Questions?" 
         content="How will this help you in your current job? How do you earn credits for your work experience? Is it really worth going back to school? (Yes!) Our FAQ's got you covered." 
         image="" 
-        button-link="/liberal-studies/resources/frequently-asked-questions" 
+        button-link="/liberal-studies/resources#frequently-asked-questions" 
         button-text="Learn More" %}
       </div>
 </div>
