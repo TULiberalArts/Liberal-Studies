@@ -20,7 +20,7 @@ The Masters of Liberal Arts in Liberal Studies (MLA) allows graduate level stude
     title="Get the Skills Employers Want" 
     content="Employers consistently say that they're looking for the analytical and communication skills afforded by the liberal arts education. Our programs build on the skills you already have - wherever you are in your career path." 
     image="" 
-    button-link="/next-stops" 
+    button-link="/liberal-studies/next-stops" 
     button-text="Learn More" %}
   </div>
   <div class="row row-wide">
@@ -28,15 +28,15 @@ The Masters of Liberal Arts in Liberal Studies (MLA) allows graduate level stude
       title="Highly Customizable Program" 
       content="We know you're busy. Our BLS program is designed to fit you - your interests, your needs, even your schedule." 
       image="" 
-      button-link="/undergraduate" 
+      button-link="/liberal-studies/undergraduate" 
       button-text="Learn More" %}
     </div>
     <div class="row row-wide">
       <div class="col m12 l4">{% include cards/card2-image.html 
         title="Questions?" 
-        content="How will this help you in your current job? How do you earn credits for your work experience? Our FAQ's got you covered." 
+        content="How will this help you in your current job? How do you earn credits for your work experience? Is it really worth going back to school? (Yes!) Our FAQ's got you covered." 
         image="" 
-        button-link="/resources/frequently-asked-questions" 
+        button-link="/liberal-studies/resources/frequently-asked-questions" 
         button-text="Learn More" %}
       </div>
 </div>
