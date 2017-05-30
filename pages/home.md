@@ -3,11 +3,12 @@ title: Home
 permalink: /
 layout: home
 feature: true
-feature-title: Study the Liberal Arts
+feature-title: Rediscover the Liberal Arts
 feature-body: >-
   Join the hundreds of students who have discovered the benefits of affordable,
   flexible and interdisciplinary undergraduate and graduate studies in the
-  liberal arts.
+  liberal arts. Our programs are designed to accommodate the unique needs of
+  working adults.
 feature-image: hero_bg.png
 published: true
 ---
