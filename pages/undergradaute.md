@@ -7,7 +7,7 @@ published: true
 
 ## BLS Program Overview
 
-The Bachelor of Arts in Liberal Studies (BLS) was developed to meet the needs of working adults. You will progress through a challenging curriculum of your own design, while enhancing the analytical, reading, writing, and research skills crucial to any academic or professional career. As a liberal studies major, you will also benefit from flexible course scheduling through classroom and online offerings, credits for work experience, and the opportunity to apply credits already awarded to your Temple degree.
+The Bachelor of Arts in Liberal Studies (BLS) was developed to meet the needs of working adults. You will progress through a challenging curriculum of your own design while enhancing the analytical, reading, writing, and research skills crucial to any academic or professional career. As a liberal studies major, you will also benefit from flexible course scheduling through classroom and online offerings, credits for work experience, and the opportunity to apply credits already awarded to your Temple degree.
 
 ## Academic Offerings and Tracks
 
