@@ -7,7 +7,7 @@ published: true
 
 ## MLA Program Outline
 
-The hallmark of the MLA Program is its interdisciplinary flexibility in allowing students to develop their own intellectual and career pathways. MLA students can choose from a range of courses and disciplines in both the MLA Program or other CLA graduate programs that meet their needs and interests, including Art History, History, English, Anthropology, Psychology, Philosophy, Sociology, Religion, Political Science, African American Studies, and Geography and Urban Studies. In addition, the MLA programs affords students the opportunity to participate in a varied and rich network, improve their analytical, research, and writing skills, challenge themselves intellectually, and enhance their current positions or open doors to new career possibilities.
+The hallmark of the MLA Program is its interdisciplinary flexibility in allowing students to develop their own intellectual and career pathways. MLA students can choose from a range of courses and disciplines in both the MLA Program and other CLA graduate programs that meet their needs and interests, including Art History, History, English, Anthropology, Psychology, Philosophy, Sociology, Religion, Political Science, African American Studies, and Geography and Urban Studies. The MLA Program affords students the opportunity to participate in a varied and rich network, improve their analytical, research, and writing skills, challenge themselves intellectually, and enhance their current positions or open doors to new career possibilities.
 
 ## Academic Offerings
 
@@ -35,9 +35,9 @@ In addition, a number of other graduate courses in the College of Liberal Arts a
 
 ## Registering for courses:
 
-- **Non-Degree Seeking** students interested in registering for MLA courses need to first contact the [Office of Continuing Studies](http://www.temple.edu/vpus/arc/continuingstudies/continuingstudies.html) (see especially [Graduate Students](http://www.temple.edu/vpus/arc/continuingstudies/continuingstudies.html#graduate) section).
+**Non-Degree Seeking** students interested in registering for MLA courses need to first contact the [Office of Continuing Studies](http://www.temple.edu/vpus/arc/continuingstudies/continuingstudies.html) (see especially [Graduate Students](http://www.temple.edu/vpus/arc/continuingstudies/continuingstudies.html#graduate) section).
 
-- **Newly Admitted Degree Seeking** students will be registered by the MLA program during the first semester of enrollment (to include, barring any complications, MLA 5011 Introduction to Interdisciplinary Studies).
+**Newly Admitted Degree Seeking** students will be registered by the MLA program during the first semester of enrollment (to include, barring any complications, MLA 5011 Introduction to Interdisciplinary Studies).
 
 After the first semester of enrollment, all CONTINUING DEGREE SEEKING students should be able to register on their own via Self-Service Banner in TUportal. See our [registrar page](http://www.temple.edu/registrar/students/registration/info.asp) for general information regarding registration. 
 
@@ -45,7 +45,7 @@ After the first semester of enrollment, all CONTINUING DEGREE SEEKING students s
 
 Students may register for up to three credits of MLA 9082 Independent Study as part of the MLA Program. Students must submit a proposal to the department under the direction of a faculty sponsor, who will then supervise the Independent Study. The proposal must be submitted the semester before the Independent Study is to be undertaken. The student will be registered by the department for MLA 9082 Independent Study credits once the project is approved.
 
-**All Independent Study Proposals must include:**
+**All Independent Study Proposals Must Include**
 
 - Independent Study Proposal Request Form
 - Rationale for undertaking the project
@@ -55,7 +55,7 @@ Students may register for up to three credits of MLA 9082 Independent Study as p
 - Writing assignments
 - Means of assessing the project
 
-## Questions:
+## Questions
 
 For advice concerning your specific qualifications and plans, please contact [Dr. Michael Szekely](mailto:mszekely@temple.edu), MLA Assistant Director/Advisor.
 
