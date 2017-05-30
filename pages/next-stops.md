@@ -4,11 +4,7 @@ permalink: /next-stops/
 layout: page
 published: true
 ---
-
-## Next Stops
-
-Our academic and professional development advisors can help you develop a graduation and employment plan that works for you. Our students come from and go on to a range of careers.
-
+Our academic and professional development advisors can help you develop a graduation and employment plan that works for you. Our students come from and go into a range of careers:
 - Lawyers
 - Teachers
 - Artists
@@ -21,11 +17,11 @@ Our academic and professional development advisors can help you develop a gradua
 - Photographers
 - Architects
 
-### BLS Students
+## BLS Students
 
 Majoring in liberal studies can help you secure internship opportunities and open the door to graduate school programs across various professional fields. 
 
-### MLA Students
+## MLA Students
 
 If you are interested in career change or advancement, if you want to prepare for doctoral-level graduate work, or if you just want the academic enrichment and personal fulfillment that graduate study provides, think MLA!
 
