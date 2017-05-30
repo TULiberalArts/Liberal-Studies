@@ -4,13 +4,13 @@ permalink: /next-stops/
 layout: page
 published: true
 ---
-Our academic and professional development advisors can help you develop a graduation and employment plan that works for you. 
-
-## BLS Students
+## Bachelor of Arts in Liberal Studies
 
 Majoring in liberal studies can help you secure internship opportunities and open the door to graduate school programs across various professional fields. 
 
-## MLA Students
+Our academic and professional development advisors can help you develop a graduation and employment plan that works for you. 
+
+## Master of Liberal Arts in Liberal Studies
 
 If you are interested in career change or advancement, if you want to prepare for doctoral-level graduate work, or if you just want the academic enrichment and personal fulfillment that graduate study provides, think MLA!
 
