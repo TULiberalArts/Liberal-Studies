@@ -25,7 +25,7 @@ _Elizabeth Reynard_, Academic Advisor<br>
 [elizabeth.reynard@temple.edu](mailto:elizabeth.reynard@temple.edu)<br>
 [215-204-7971](tel: 2152047971)
 
-## BLA Resources
+## BLS Resources
 
 - [College of Liberal Arts](http://www.cla.temple.edu/)
 - [CLA Center for Academic Advising and Professional Development](http://www.cla.temple.edu/advising/)
