@@ -5,9 +5,9 @@ layout: page
 published: true
 ---
 
-## BLS Program Overview
+## Bachelor of Arts in Liberal Studies Program Overview
 
-The Bachelor of Arts in Liberal Studies (BLS) was developed to meet the needs of working adults. You will progress through a challenging curriculum of your own design while enhancing the analytical, reading, writing, and research skills crucial to any academic or professional career. As a liberal studies major, you will also benefit from flexible course scheduling through classroom and online offerings, credits for work experience, and the opportunity to apply credits already awarded to your Temple degree.
+The bachelor of arts in liberal studies (BLS) was developed to meet the needs of working adults. You will progress through a challenging curriculum of your own design while enhancing the analytical, reading, writing, and research skills crucial to any academic or professional career. As a liberal studies major, you will also benefit from flexible course scheduling through classroom and online offerings, credits for work experience, and the opportunity to apply credits already awarded to your Temple degree.
 
 ## Academic Offerings and Tracks
 
@@ -17,9 +17,9 @@ The Bachelor of Arts in Liberal Studies (BLS) was developed to meet the needs of
 
 ## Curriculum and Courses
 
-All students in the [Liberal Studies major](http://bulletin.temple.edu/undergraduate/liberal-arts/liberal-studies/ba-liberal-studies/#requirementstext) begin their studies in Liberal Arts 2096, Introduction to Liberal Studies. This writing intensive, interdisciplinary course brings students together and (re)introduces the idea of academic research, writing, and participation in the academic enterprise. Instructors will select a topic of their choice and examine it from a variety of perspectives and viewpoints in the various disciplines of the liberal arts. This course is specially designed for the adult learner returning to college after some absence.
+All students in the [liberal studies major](http://bulletin.temple.edu/undergraduate/liberal-arts/liberal-studies/ba-liberal-studies/#requirementstext) begin their studies in Liberal Arts 2096, Introduction to Liberal Studies. This writing intensive, interdisciplinary course brings students together and (re)introduces the idea of academic research, writing, and participation in the academic enterprise. Instructors will select a topic of their choice and examine it from a variety of perspectives and viewpoints in the various disciplines of the liberal arts. This course is specially designed for the adult learner returning to college after some absence.
 
-Later in their program of study, all Liberal Studies majors will take American Studies 2098, Reading Culture, to complete the second required writing intensive course for the General Education Curriculum. This course will focus on a specific period of American culture and examine various kinds of cultural icons, practices, behaviors and art to determine how the political context influenced the lives of Americans during this period. This course is offered on a regular basis by several faculty members in history, English, and American Studies.
+Later in their program of study, all liberal studies majors will take American Studies 2098, Reading Culture, to complete the second required writing intensive course for the General Education Curriculum. This course will focus on a specific period of American culture and examine various kinds of cultural icons, practices, behaviors and art to determine how the political context influenced the lives of Americans during this period. This course is offered on a regular basis by several faculty members in history, English, and American Studies.
 
 Students must select a track, either Humanities or Social Sciences and follow the requirements of that track. Critical Thinking (either Philosophy 1055 for Humanities students or Psychology 1004 for Social Science majors) is the foundations-level course for this major.
 
