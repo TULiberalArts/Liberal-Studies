@@ -4,18 +4,7 @@ permalink: /next-stops/
 layout: page
 published: true
 ---
-Our academic and professional development advisors can help you develop a graduation and employment plan that works for you. Our students come from and go into a range of careers:
-- Lawyers
-- Teachers
-- Artists
-- Finance officers
-- University administrators
-- Police officers
-- Athletes
-- Poets and writers
-- Journalists
-- Photographers
-- Architects
+Our academic and professional development advisors can help you develop a graduation and employment plan that works for you. 
 
 ## BLS Students
 
