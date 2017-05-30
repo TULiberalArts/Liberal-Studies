@@ -34,7 +34,7 @@ The Masters of Liberal Arts in Liberal Studies (MLA) allows graduate level stude
     <div class="row row-wide">
       <div class="col m12 l4">{% include cards/card2-image.html 
         title="Questions?" 
-        content="Our FAQ's got you covered." 
+        content="How will this help you in your current job? How do you earn credits for your work experience? Our FAQ's got you covered." 
         image="" 
         button-link="/resources/frequently-asked-questions" 
         button-text="Learn More" %}
