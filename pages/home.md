@@ -7,7 +7,7 @@ layout: home
 feature: true
 feature-title: Rediscover the Liberal Arts
 feature-body: >-
-  Join the hundreds of students who have discovered the benefits of affordable,
+  Take advantage of affordable,
   flexible and interdisciplinary undergraduate and graduate studies in the
   liberal arts. Our programs are designed to accommodate the unique needs of
   working adults.
