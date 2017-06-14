@@ -5,28 +5,7 @@ permalink: /resources/
 layout: page
 published: true
 ---
-## Contact Us
-
-### Director
-Michael D. Szekely <br>
-818 Anderson Hall<br>
-[(215) 204-6479](tel:2152046479)<br>
-[mszekely@temple.edu](mailto:mszekely@temple.edu)
-
-### Administrator
-Stephanie Morawski <br>
-1041 Anderson Hall <br>
-[(215) 204-8516](tel:2152048516) <br>
-[morawski@temple.edu](mailto:morawski@temple.edu) <br>
-
-### Advising
-
-[Center for Academic Advising and Professional Development](http://www.cla.temple.edu/advising/)<br>
-_Elizabeth Reynard_, Academic Advisor<br>
-[elizabeth.reynard@temple.edu](mailto:elizabeth.reynard@temple.edu)<br>
-[215-204-7971](tel: 2152047971)
-
-## Resources
+## Resources are here to help!
 
 - [College of Liberal Arts](http://www.cla.temple.edu/)
 - [CLA Center for Academic Advising and Professional Development](http://www.cla.temple.edu/advising/)
