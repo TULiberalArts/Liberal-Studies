@@ -7,13 +7,6 @@ published: true
 ---
 ## Resources are here to help!
 
-- [College of Liberal Arts](http://www.cla.temple.edu/)
-- [CLA Center for Academic Advising and Professional Development](http://www.cla.temple.edu/advising/)
-- [Temple Admissions/Request to Re-enroll](http://admissions.temple.edu/apply/request-to-re-enroll)
-- [Temple Admissions/Transfer Students](http://admissions.temple.edu/apply/transfer-applicant)
-- [Temple University Career Center](http://www.temple.edu/provost/careercenter/)
-- [Undergraduate Bulletin/Course Descriptions](http://bulletin.temple.edu/undergraduate/courses/)
-
 ### Frequently Asked Questions
 
 _How will a bachelor of arts in liberal studies help me in my current job?_ <br> 
