@@ -4,6 +4,34 @@ meta-keywords: 3 or 4 unique for this page
 permalink: /graduate/
 layout: page
 published: true
+sidebar: true
+sidebar-content: > #
+  ### Contact Us
+
+  <hr>
+
+  **Director:**<br/>
+  Michael D. Szekely<br/>
+  818 Anderson Hall<br/>
+  [(215) 204-6479](tel:2152046479)<br/>
+  [mszekely@temple.edu](mailto:mszekely@temple.edu)<br/>
+
+  <hr>
+
+  **Administrator:** <br/>
+  Stephanie Morawski<br/>
+  1041 Anderson Hall<br/>
+  [(215) 204-8516](tel:2152048516)<br/>
+  [morawski@temple.edu](mailto:morawski@temple.edu)<br/>
+  
+  <hr>
+
+  **Advising:**<br/>
+  [Center for Academic Advising and Professional Development](http://www.cla.temple.edu/advising/)<br/>
+  Elizabeth Reynard, Academic Advisor<br/>
+  440 Anderson Hall<br/>
+  [(215) 204-7971](tel:2152047971)<br/>
+  [elizabeth.reynard@temple.edu](mailto:elizabeth.reynard@temple.edu)<br/>
 ---
 
 ## Master of Liberal Arts in Liberal Studies Program Overview
