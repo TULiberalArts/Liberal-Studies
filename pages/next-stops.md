@@ -1,6 +1,6 @@
 ---
 title: Next Stops
-meta-keywords: transfer, apply, visit, mla, bls
+meta-keywords: 'transfer, apply, visit, mla, bls'
 permalink: /next-stops/
 layout: page
 published: true
@@ -11,7 +11,7 @@ Majoring in liberal studies can help you secure internship opportunities and ope
 
 Our academic and professional development advisors can help you develop a graduation and employment plan that works for you. 
 
-## Master of Liberal Arts in Liberal Studies
+## Master of Liberal Arts
 
 If you are interested in career change or advancement, if you want to prepare for doctoral-level graduate work, or if you just want the academic enrichment and personal fulfillment that graduate study provides, think MLA!
 
