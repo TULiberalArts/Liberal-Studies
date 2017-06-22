@@ -1,6 +1,6 @@
 ---
 title: Undergraduate
-meta-keywords: 3 or 4 unique for this page
+meta-keywords: bachelors of arts, liberal studies, major
 permalink: /undergraduate/
 layout: page
 published: true
