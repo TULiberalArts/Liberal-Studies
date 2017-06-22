@@ -1,6 +1,6 @@
 ---
 title: Resources
-meta-keywords: 3 or 4 unique for this page
+meta-keywords: faq, resources, liberal studies, Temple
 permalink: /resources/
 layout: page
 published: true
