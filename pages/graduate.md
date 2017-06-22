@@ -54,7 +54,7 @@ In addition, a number of other graduate courses in the College of Liberal Arts a
 
 Up to nine hours of graduate study taken at Temple prior to admission may be credited toward the degree with the approval of the MLA Advisory Committee and the Dean of the Graduate School. In order for graduate courses taken at Temple as a non-degree seeking student to count toward the degree, the earned grades must be “B” or better.
 
-### Registering for courses:
+### Registering for Courses
 
 **Non-Degree Seeking** students interested in registering for MLA courses need to first contact the [Office of Continuing Studies](http://www.temple.edu/vpus/arc/continuingstudies/continuingstudies.html) (see especially [Graduate Students](http://www.temple.edu/vpus/arc/continuingstudies/continuingstudies.html#graduate) section).
 
