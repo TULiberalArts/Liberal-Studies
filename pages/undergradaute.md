@@ -24,9 +24,9 @@ sidebar-content: > #
 
    **Advising:**  
    Elizabeth Reynard, [Center for Academic Advising](http://www.cla.temple.edu/advising/)    
-   440 Anderson Hall    
-   [(215) 204-7971](tel:2152047971)   
-   [elizabeth.reynard@temple.edu](mailto:elizabeth.reynard@temple.edu)  
+   Paley Library    
+   1210 Polett Walk, Suite 160        
+   [elizabeth.reynard@temple.edu](mailto:elizabeth.reynard@temple.edu)      
 ---
 
 ## B.A. in Liberal Studies: Program Overview
