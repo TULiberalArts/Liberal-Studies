@@ -11,7 +11,7 @@ published: true
 Our bachelor of arts in liberal studies focuses on the development of critical thinking, research and communication - these skills can greatly assist you in any job, particularly if you aspire to move up in your profession. In addition, by receiving a bachelor’s degree, you will have access to a vast alumni network as well as ongoing support from Temple’s [Career Center](http://www.temple.edu/provost/careercenter/).
 
 **Who should I contact if I am interested in this program?** <br>
-The office of [Undergraduate Admissions](http://admissions.temple.edu/apply).
+Program Director Michael Szekely. (Email: [mszekely@temple.edu](mailto:mszekely@temple.edu) | Phone: (215) 204-6479)
 
 **What sort of new career opportunities will be available to me with this degree?** <br>
 In addition to the possibility of a promotion in your current profession, a bachelor’s degree in liberal studies could also open new doors of opportunity for graduate school and further professional development. You also have the option to pursue internship opportunities to experience different professional fields.
@@ -26,7 +26,7 @@ Within the liberal studies program, you will have the option to choose either th
 You will have the opportunity to earn up to six elective credits by preparing a portfolio detailing your work experience.
 
 **Does this program include the opportunity for an internship?** <br>
-Yes, like many College of Liberal Arts programs, you will have an opportunity to work in a desired field and location for internship credits.
+Yes, like many College of Liberal Arts programs, you will have an opportunity to work in a desired field and location for internship credits. For more information, connect with our Professional Development staff in the [Center for Academic Advising and Professional Development](https://liberalarts.temple.edu/advising/professional-development).
 
 **What makes this different than other undergraduate CLA degrees?** <br>
 The bachelor of arts in liberal studies has been created for those who never got the chance to finish their degree. This degree gives you the opportunity to have a say in your higher educational plan, work at your own pace, and expand your skills for current and future employment. In addition, this degree not only gives you the opportunity to transfer credits for course work you have already completed, but also receive credits for your existing work experience.
