@@ -5,6 +5,8 @@ permalink: /next-stops/
 layout: page
 published: true
 ---
+There are so many things you can do with our [bachelor's](#bachelor-of-arts-in-liberal-studies) and [master's](#master-of-liberal-arts) degrees. Convinced? [Make your declaration](#make-your-declaration), learn about [transfer options](#thinking-of-transferring) or [apply to Temple](#apply). 
+
 ## Bachelor of Arts in Liberal Studies
 
 Majoring in liberal studies can help you secure internship opportunities and open the door to graduate school programs across various professional fields. 
