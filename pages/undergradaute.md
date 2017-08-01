@@ -1,11 +1,11 @@
 ---
 title: Undergraduate
-meta-keywords: bachelors of arts, liberal studies, major
+meta-keywords: 'bachelors of arts, liberal studies, major'
 permalink: /undergraduate/
 layout: page
 published: true
 sidebar: true
-sidebar-content: > #
+sidebar-content: |
   **Director:**  
    Michael D. Szekely  
    818 Anderson Hall  
@@ -26,12 +26,14 @@ sidebar-content: > #
    Elizabeth Reynard, [Center for Academic Advising](http://www.cla.temple.edu/advising/)    
    Paley Library    
    1210 Polett Walk, Suite 160        
-   [elizabeth.reynard@temple.edu](mailto:elizabeth.reynard@temple.edu)      
+   [elizabeth.reynard@temple.edu](mailto:elizabeth.reynard@temple.edu)
 ---
 
 ## B.A. in Liberal Studies: Program Overview
 
 The bachelor of arts in liberal studies was developed to meet the needs of working adults. You will progress through a challenging curriculum of your own design while enhancing the analytical, reading, writing and research skills crucial to any academic or professional career. As a liberal studies major, you will also benefit from flexible course scheduling through classroom and online offerings, credits for work experience, and the opportunity to apply credits already awarded to your Temple degree.
+
+When you are ready to apply, submit your application online at [admissions.temple.edu/apply](admissions.temple.edu/apply).
 
 ## Academic Offerings and Tracks
 
