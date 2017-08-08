@@ -1,8 +1,6 @@
 ---
 title: Home
-meta-description: Take advantage of affordable, flexible and interdisciplinary 
-undergraduate and graduate studies in the liberal arts. Our programs are designed 
-to accommodate the unique needs of working adults.
+meta-description: Take advantage of affordable, flexible and interdisciplinary undergraduate and graduate studies in the liberal arts. Our programs are designed to accommodate the unique needs of working adults.
 meta-keywords: humanities, liberal studies, undergraduate, graduate
 permalink: /
 layout: home
