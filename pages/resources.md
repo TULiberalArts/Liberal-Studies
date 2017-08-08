@@ -1,6 +1,7 @@
 ---
 title: Resources
 meta-keywords: 'faq, resources, liberal studies, Temple'
+meta-description: Frequently Asked Questions about our BA in Liberal Studies
 permalink: /resources/
 layout: page
 published: true
