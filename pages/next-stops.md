@@ -1,6 +1,7 @@
 ---
 title: Next Stops
 meta-keywords: 'transfer, apply, visit, mla, bls'
+meta-description: There are so many things you can do with our bachelor’s and master’s degrees.  
 permalink: /next-stops/
 layout: page
 published: true
