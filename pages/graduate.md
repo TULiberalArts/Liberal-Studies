@@ -1,6 +1,7 @@
 ---
 title: Graduate
 meta-keywords: 'liberal arts, masters degree, Temple'
+meta-description: The hallmark of the MLA program is its interdisciplinary flexibility in allowing students to develop their own intellectual and career pathways.
 permalink: /graduate/
 layout: page
 published: true
