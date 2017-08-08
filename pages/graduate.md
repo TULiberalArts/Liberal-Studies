@@ -1,12 +1,14 @@
 ---
 title: Graduate
 meta-keywords: 'liberal arts, masters degree, Temple'
-meta-description: The hallmark of the MLA program is its interdisciplinary flexibility in allowing students to develop their own intellectual and career pathways.
+meta-description: >-
+  The hallmark of the MLA program is its interdisciplinary flexibility in
+  allowing students to develop their own intellectual and career pathways.
 permalink: /graduate/
 layout: page
 published: true
 sidebar: true
-sidebar-content: > #
+sidebar-content: |
   **Director:**  
    Michael D. Szekely  
    818 Anderson Hall  
@@ -27,7 +29,7 @@ sidebar-content: > #
    Elizabeth Reynard, [Center for Academic Advising](http://www.cla.temple.edu/advising/)    
    Paley Library    
    1210 Polett Walk, Suite 160        
-   [elizabeth.reynard@temple.edu](mailto:elizabeth.reynard@temple.edu)      
+   [elizabeth.reynard@temple.edu](mailto:elizabeth.reynard@temple.edu)
 ---
 
 ## Master of Liberal Arts: Program Overview
