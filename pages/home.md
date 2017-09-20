@@ -1,19 +1,19 @@
 ---
 title: Home
-meta-description: >-
+permalink: /
+layout: home
+description: >-
   Take advantage of affordable, flexible and interdisciplinary undergraduate and
   graduate studies in the liberal arts. Our programs are designed to accommodate
   the unique needs of working adults.
-meta-keywords: 'humanities, liberal studies, undergraduate, graduate'
-permalink: /
-layout: home
+keywords: 'humanities, liberal studies, undergraduate, graduate'
 feature: true
 feature-title: Rediscover the Liberal Arts
+feature-image: hero_bg.png
 feature-body: >-
   Take advantage of affordable, flexible and interdisciplinary undergraduate and
   graduate studies in the liberal arts. Our programs are designed to accommodate
   the unique needs of working adults.
-feature-image: hero_bg.png
 published: true
 ---
 The **Bachelor of Arts in Liberal Studies** allows you to design your own plan of study through flexible academic tracks in humanities or social sciences. The degree will help you meet your personal and professional goals, expand your critical thinking, research and communication skills, and take your career to the next level. 
