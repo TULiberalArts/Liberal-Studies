@@ -1,11 +1,11 @@
 ---
 title: Undergraduate
-meta-keywords: 'bachelors of arts, liberal studies, major'
-meta-description: >-
-  The Bachelor of Arts in liberal studies was developed to meet the needs of
-  working adults.
 permalink: /undergraduate/
 layout: page
+keywords: 'bachelors of arts, liberal studies, major'
+description: >-
+  The Bachelor of Arts in liberal studies was developed to meet the needs of
+  working adults.
 published: true
 sidebar: true
 sidebar-content: |
