@@ -67,6 +67,7 @@ google_tag_manager: GTM-58ZL5B
 # CSV/JSON/YAML data feeds URLs, to be fetched before each build
 events-feed: https://liberalarts.temple.edu/events/liberal-studies/csv
 news-feed: https://liberalarts.temple.edu/articles/liberal-studies/csv
+articles-feed: https://liberalarts.temple.edu/articles/liberal-studies/csv
 faculty-feed: https://liberalarts.temple.edu/profiles/liberal-studies/csv
 media-mentions-feed: https://liberalarts.temple.edu/media-mentions/liberal-studies/csv
 
