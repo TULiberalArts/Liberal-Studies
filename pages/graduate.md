@@ -37,7 +37,7 @@ sidebar-content: |
 The hallmark of the [MLA program](http://bulletin.temple.edu/graduate/scd/cla/liberal-arts-mla/) is its interdisciplinary flexibility in allowing students to develop their own intellectual and career pathways. MLA students can choose from a range of courses and disciplines in both the MLA program and other College of Liberal Arts graduate programs that meet their needs and interests, including art history, history, English, anthropology, psychology, philosophy, sociology, religion, political science, African American studies, and geography and urban studies. The MLA program affords students the opportunity to participate in a varied and rich network, improve their analytical, research and writing skills, challenge themselves intellectually, and enhance their current positions or open doors to new career possibilities.
 
 - [Program Requirements](http://bulletin.temple.edu/graduate/scd/cla/liberal-arts-mla/#programrequirementstext) 
-- [Admission Requiements](http://bulletin.temple.edu/graduate/scd/cla/liberal-arts-mla/#admissiontext) 
+- [Admission Requirements](http://bulletin.temple.edu/graduate/scd/cla/liberal-arts-mla/#admissiontext) 
 
 ## Transfer of Credit
 
