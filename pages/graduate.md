@@ -43,7 +43,6 @@ The hallmark of the [MLA program](http://bulletin.temple.edu/graduate/scd/cla/li
 
 Please visit the [Liberal Sudies Graduate Admissions](https://liberalarts.temple.edu/admissions/graduate/liberal-studies) page to learn more about graduate program requirements, dates and deadlines and instructions on how to apply.
 
-
 ## Transfer of Credit
 
 Students are expected to complete all of the MLA course requirements at Temple. However, up to six hours of graduate credits may be transferred from another institution with the approval of the MLA Advisory Committee and the Dean of the Graduate School. The credits must be equivalent to coursework offered at Temple, and the grade must be a “B” or better. The MLA Admissions Committee makes recommendations on transfer credits to the Director of the MLA Program.
