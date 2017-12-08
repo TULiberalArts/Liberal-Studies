@@ -1,7 +1,7 @@
 ---
 title: Home
 permalink: /
-layout: home
+layout: home3
 description: >-
   Take advantage of affordable, flexible and interdisciplinary undergraduate and
   graduate studies in the liberal arts. Our programs are designed to accommodate
