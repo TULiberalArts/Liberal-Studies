@@ -32,7 +32,7 @@ sidebar-content: |
    [elizabeth.reynard@temple.edu](mailto:elizabeth.reynard@temple.edu)
 ---
 
-## Master of Liberal Arts: Program Overview
+## Master of Liberal Arts
 The hallmark of the [MLA program](http://bulletin.temple.edu/graduate/scd/cla/liberal-arts-mla/) is its interdisciplinary flexibility in allowing students to develop their own intellectual and career pathways. MLA students can choose from a range of courses and disciplines in both the MLA program and other College of Liberal Arts graduate programs that meet their needs and interests, including art history, history, English, anthropology, psychology, philosophy, sociology, religion, political science, African American studies, and geography and urban studies. The MLA program affords students the opportunity to participate in a varied and rich network, improve their analytical, research and writing skills, challenge themselves intellectually, and enhance their current positions or open doors to new career possibilities.
 
 ## Admissions Process
@@ -54,7 +54,6 @@ In addition, a number of other graduate courses in the College of Liberal Arts a
 Up to nine hours of graduate study taken at Temple prior to admission may be credited toward the degree with the approval of the MLA Advisory Committee and the Dean of the Graduate School. In order for graduate courses taken at Temple as a non-degree seeking student to count toward the degree, the earned grades must be “B” or better.
 
 ### Registering for Courses
-
 **Non-Degree Seeking** students interested in registering for MLA courses need to first contact the [Office of Continuing Studies](http://www.temple.edu/vpus/arc/continuingstudies/continuingstudies.html) (see especially [Graduate Students](http://www.temple.edu/vpus/arc/continuingstudies/continuingstudies.html#graduate) section).
 
 **Newly Admitted Degree Seeking** students will be registered by the MLA program during the first semester of enrollment (to include, barring any complications, MLA 5011 Introduction to Interdisciplinary Studies).
@@ -65,7 +64,6 @@ After the first semester of enrollment, all continuing degree-seeking students s
 Students may register for up to three credits of MLA 9082 Independent Study as part of the MLA Program. Students must submit a proposal to the department under the direction of a faculty sponsor, who will then supervise the independent study. The proposal must be submitted the semester before the independent study is to be undertaken. The student will be registered by the department for MLA 9082 Independent Study credits once the project is approved.
 
 **All Independent Study Proposals Must Include**
-
 - Independent Study Proposal Request form
 - Rationale for undertaking the project
 - Anticipated outcomes or goals of the project
