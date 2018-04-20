@@ -26,7 +26,8 @@ sidebar-content: |
    ___
 
    **Advising:**  
-   Elizabeth Reynard, [Center for Academic Advising](http://www.cla.temple.edu/advising/)    
+   Elizabeth Reynard    
+   [Center for Academic Advising](http://www.cla.temple.edu/advising/)      
    Paley Library    
    1210 Polett Walk, Suite 160        
    [elizabeth.reynard@temple.edu](mailto:elizabeth.reynard@temple.edu)
