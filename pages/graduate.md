@@ -2,7 +2,7 @@
 title: Graduate
 permalink: /graduate/
 layout: page
-keywords: 'liberal arts, masters degree, Temple'
+keywords: 'liberal arts, masters degree, course offerings, admissions, independent study, transfer of credits'
 description: >-
   The hallmark of the MLA program is its interdisciplinary flexibility in
   allowing students to develop their own intellectual and career pathways.
