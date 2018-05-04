@@ -6,7 +6,7 @@ description: >-
   Take advantage of affordable, flexible and interdisciplinary undergraduate and
   graduate studies in the liberal arts. Our programs are designed to accommodate
   the unique needs of working adults.
-keywords: 'humanities, liberal studies, undergraduate, graduate'
+keywords: 'humanities, liberal studies, undergraduate, mla, academic offerings'
 feature: true
 feature-title: Rediscover the Liberal Arts
 feature-image: hero_bg.png
