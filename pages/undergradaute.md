@@ -2,7 +2,7 @@
 title: Undergraduate
 permalink: /undergraduate/
 layout: page
-keywords: 'bachelors of arts, liberal studies, major'
+keywords: 'bachelors of arts, liberal studies, curriculum, courses, admissions'
 description: >-
   The Bachelor of Arts in liberal studies was developed to meet the needs of
   working adults.
