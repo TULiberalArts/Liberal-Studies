@@ -31,6 +31,7 @@ sidebar-content: |
    1210 Polett Walk, Suite 160        
    [elizabeth.reynard@temple.edu](mailto:elizabeth.reynard@temple.edu)
 ---
+Temple University’s College of Liberal Arts is the ideal learning environment in which to earn your [bachelors of arts](#ba-in-liberal-studies) in liberal studies degree. The [curriculum and courses](#curriculum-and-courses) are flexible enough for you to complete your college degree quickly while still employed, and the skills and lessons you learn will prepare you to take the next big step in your career.
 
 ## B.A. in Liberal Studies
 The bachelor of arts in liberal studies was developed to meet the needs of working adults. You will progress through a challenging curriculum of your own design while enhancing the analytical, reading, writing and research skills crucial to any academic or professional career. As a liberal studies major, you will also benefit from flexible course scheduling through classroom and online offerings, credits for work experience, and the opportunity to apply credits already awarded to your Temple degree.
