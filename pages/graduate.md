@@ -32,6 +32,7 @@ sidebar-content: |
    1210 Polett Walk, Suite 160        
    [elizabeth.reynard@temple.edu](mailto:elizabeth.reynard@temple.edu)
 ---
+An advanced degree can mean an advanced career. Move your life forward with a [masters](#master-of-liberal-arts) in liberal arts degree from Temple University’s College of Liberal Arts. Get started today by familiarizing yourself with our [admissions process](#admissions-process), [transfer](#transfer-of-credit) opportunities and [course offerings](#course-offerings).
 
 ## Master of Liberal Arts
 The hallmark of the [MLA program](http://bulletin.temple.edu/graduate/scd/cla/liberal-arts-mla/) is its interdisciplinary flexibility in allowing students to develop their own intellectual and career pathways. MLA students can choose from a range of courses and disciplines in both the MLA program and other College of Liberal Arts graduate programs that meet their needs and interests, including art history, history, English, anthropology, psychology, philosophy, sociology, religion, political science, African American studies, and geography and urban studies. The MLA program affords students the opportunity to participate in a varied and rich network, improve their analytical, research and writing skills, challenge themselves intellectually, and enhance their current positions or open doors to new career possibilities.
