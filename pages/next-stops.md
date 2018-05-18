@@ -7,7 +7,7 @@ description: >-
   There are so many things you can do with our bachelor’s and master’s degrees.
 published: true
 ---
-There are so many things you can do with our [bachelor's](#bachelor-of-arts-in-liberal-studies) and [master's](#master-of-liberal-arts) degrees. Convinced? [Make your declaration](#make-your-declaration), learn about [transfer options](#thinking-of-transferring) or [apply to Temple](#apply). 
+There are so many things you can do with a liberal arts [bachelor's degree](#bachelor-of-arts-in-liberal-studies) and/or a liberal arts [master's degree](#master-of-liberal-arts). Ready to find out what the future holds for you with a liberal arts education? [Make your declaration](#make-your-declaration) or learn about your [transfer options](#thinking-of-transferring) and [apply](#apply) to Temple University.
 
 ## Careers
 Majoring in liberal studies can help you secure internship opportunities and open the door to graduate school programs across various professional fields. Our academic and professional development advisors can help you develop a graduation and employment plan that works for you. 
