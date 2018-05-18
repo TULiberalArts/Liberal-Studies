@@ -9,4 +9,4 @@ description: >-
 keywords: 'faculty, liberal studies'
 published: true
 ---
-Our faculty come from a range of departments — from English to political science to anthropology — to provide you with a well-rounded, interdisciplinary education.
+Our liberal studies degree faculty come from a range of departments—from English to political science to anthropology—to provide you with a well-rounded, interdisciplinary education. Get to know them!
