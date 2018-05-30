@@ -2,13 +2,12 @@
 # global predefined variables
 layout: page
 permalink: /graduate/
-allowing students to develop their own intellectual and career pathways.
 published: true
 # meta-data variables
 title: Graduate
 keywords: 'liberal arts, masters degree, course offerings, admissions, independent study, transfer of credits'
 description: >-
-  The hallmark of the MLA program is its interdisciplinary flexibility in
+  The hallmark of the MLA program is its interdisciplinary flexibility in allowing students to develop their own intellectual and career pathways.
 # custom variables
 sidebar: true
 sidebar-content: |
