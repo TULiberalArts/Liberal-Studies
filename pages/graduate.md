@@ -1,12 +1,15 @@
 ---
-title: Graduate
-permalink: /graduate/
+# global predefined variables
 layout: page
+permalink: /graduate/
+allowing students to develop their own intellectual and career pathways.
+published: true
+# meta-data variables
+title: Graduate
 keywords: 'liberal arts, masters degree, course offerings, admissions, independent study, transfer of credits'
 description: >-
   The hallmark of the MLA program is its interdisciplinary flexibility in
-  allowing students to develop their own intellectual and career pathways.
-published: true
+# custom variables
 sidebar: true
 sidebar-content: |
   **Director:**  
@@ -60,7 +63,7 @@ Up to nine hours of graduate study taken at Temple prior to admission may be cre
 
 **Newly Admitted Degree Seeking** students will be registered by the MLA program during the first semester of enrollment (to include, barring any complications, MLA 5011 Introduction to Interdisciplinary Studies).
 
-After the first semester of enrollment, all continuing degree-seeking students should be able to register on their own via Self-Service Banner in TUportal. See our [registrar page](http://www.temple.edu/registrar/students/registration/info.asp) for general information regarding registration. 
+After the first semester of enrollment, all continuing degree-seeking students should be able to register on their own via Self-Service Banner in TUportal. See our [registrar page](http://www.temple.edu/registrar/students/registration/info.asp) for general information regarding registration.
 
 ### Independent Study
 Students may register for up to three credits of MLA 9082 Independent Study as part of the MLA Program. Students must submit a proposal to the department under the direction of a faculty sponsor, who will then supervise the independent study. The proposal must be submitted the semester before the independent study is to be undertaken. The student will be registered by the department for MLA 9082 Independent Study credits once the project is approved.

@@ -1,15 +1,18 @@
 ---
-title: Resources
+# global predefined variables
+layout: tla_page
 permalink: /resources/
-layout: page
+published: true
+# meta-data variables
+title: Resources
 keywords: 'faq, resources, liberal studies, Temple'
 description: >-
   Frequently Asked Questions about our BA in Liberal Studies
-published: true
+# custom variables
 ---
 ## B.A. in Liberal Studies: Frequently Asked Questions
 
-**How will a bachelor of arts in liberal studies help me in my current job?** <br> 
+**How will a bachelor of arts in liberal studies help me in my current job?** <br>
 Our bachelor of arts in liberal studies focuses on the development of critical thinking, research and communication - these skills can greatly assist you in any job, particularly if you aspire to move up in your profession. In addition, by receiving a bachelor’s degree, you will have access to a vast alumni network as well as ongoing support from Temple’s [Career Center](http://www.temple.edu/provost/careercenter/).
 
 **Who should I contact if I am interested in this program?** <br>

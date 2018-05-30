@@ -1,12 +1,15 @@
 ---
-title: Undergraduate
-permalink: /undergraduate/
+# global predefined variables
 layout: page
+permalink: /undergraduate/
+published: true
+# meta-data variables
+title: Undergraduate
 keywords: 'bachelors of arts, liberal studies, curriculum, courses, admissions'
 description: >-
   The Bachelor of Arts in liberal studies was developed to meet the needs of
   working adults.
-published: true
+# custom variables
 sidebar: true
 sidebar-content: |
   **Director:**  
