@@ -5,9 +5,9 @@ permalink: /resources/
 published: true
 # meta-data variables
 title: Resources
-keywords: 'faq, resources, liberal studies, Temple'
 description: >-
   Frequently Asked Questions about our BA in Liberal Studies
+keywords: 'faq, resources, liberal studies, Temple'  
 # custom variables
 ---
 ## B.A. in Liberal Studies: Frequently Asked Questions
