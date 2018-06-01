@@ -1,38 +1,17 @@
 ---
 # global predefined variables
-layout: page
+layout: tla_page
 permalink: /undergraduate/
 published: true
 # meta-data variables
 title: Undergraduate
-keywords: 'bachelors of arts, liberal studies, curriculum, courses, admissions'
 description: >-
   The Bachelor of Arts in liberal studies was developed to meet the needs of
   working adults.
+keywords: 'bachelors of arts, liberal studies, curriculum, courses, admissions'  
 # custom variables
 sidebar: true
-sidebar-content: |
-  **Director:**  
-   Michael D. Szekely  
-   818 Anderson Hall  
-   [(215) 204-6479](tel:2152046479)  
-   [mszekely@temple.edu](mailto:mszekely@temple.edu)  
-   
-   ___
-   
-   **Administrator:**  
-   Stephanie Morawski  
-   1041 Anderson Hall   
-   [(215) 204-8516](tel:2152048516)  
-   [morawski@temple.edu](mailto:morawski@temple.edu)  
-   
-   ___
-
-   **Advising:**  
-   Elizabeth Reynard, [Center for Academic Advising](http://www.cla.temple.edu/advising/)    
-   Paley Library    
-   1210 Polett Walk, Suite 160        
-   [elizabeth.reynard@temple.edu](mailto:elizabeth.reynard@temple.edu)
+sidebar_content: sidebars/undergraduate.html
 ---
 Temple University’s College of Liberal Arts is the ideal learning environment in which to earn your [bachelors of arts](#ba-in-liberal-studies) in liberal studies degree. The [curriculum and courses](#curriculum-and-courses) are flexible enough for you to complete your college degree quickly while still employed, and the skills and lessons you learn will prepare you to take the next big step in your career.
 
