@@ -5,9 +5,9 @@ permalink: /next-stops/
 published: true
 # meta-data variables
 title: Next Stops
-keywords: 'transfer, internship, careers, apply, visit, mla, bls'
 description: >-
   There are so many things you can do with our bachelor’s and master’s degrees.
+keywords: 'transfer, internship, careers, apply, visit, mla, bls'
 # custom variables
 ---
 There are so many things you can do with a liberal arts [bachelor's degree](#bachelor-of-arts-in-liberal-studies) and/or a liberal arts [master's degree](#master-of-liberal-arts). Ready to find out what the future holds for you with a liberal arts education? [Make your declaration](#make-your-declaration) or learn about your [transfer options](#thinking-of-transferring) and [apply](#apply) to Temple University.
