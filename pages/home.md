@@ -18,7 +18,6 @@ feature-body: >-
   Take advantage of affordable, flexible and interdisciplinary undergraduate and
   graduate studies in the liberal arts. Our programs are designed to accommodate
   the unique needs of working adults.
-
 ---
 Temple University’s liberal studies degree programs are designed to accommodate working adult learners. They’re affordable, flexible and interdisciplinary undergraduate and graduate studies programs. Take advantage of these life-friendly offerings and complete your college degree.
 
