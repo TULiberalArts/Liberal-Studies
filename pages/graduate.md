@@ -5,34 +5,13 @@ permalink: /graduate/
 published: true
 # meta-data variables
 title: Graduate
-keywords: 'liberal arts, masters degree, course offerings, admissions, independent study, transfer of credits'
 description: >-
-  The hallmark of the MLA program is its interdisciplinary flexibility in allowing students to develop their own intellectual and career pathways.
+  The hallmark of the MLA program is its interdisciplinary flexibility in 
+  allowing students to develop their own intellectual and career pathways.
+keywords: 'liberal arts, masters degree, course offerings, admissions, independent study, transfer of credits'
 # custom variables
 sidebar: true
-sidebar-content: |
-  **Director:**  
-   Michael D. Szekely  
-   818 Anderson Hall  
-   [(215) 204-6479](tel:2152046479)  
-   [mszekely@temple.edu](mailto:mszekely@temple.edu)  
-   
-   ___
-   
-   **Administrator:**  
-   Stephanie Morawski  
-   1041 Anderson Hall   
-   [(215) 204-8516](tel:2152048516)  
-   [morawski@temple.edu](mailto:morawski@temple.edu)  
-   
-   ___
-
-   **Advising:**  
-   Elizabeth Reynard    
-   [Center for Academic Advising](http://www.cla.temple.edu/advising/)      
-   Paley Library    
-   1210 Polett Walk, Suite 160        
-   [elizabeth.reynard@temple.edu](mailto:elizabeth.reynard@temple.edu)
+sidebar_content: sidebars/graduate.html
 ---
 An advanced degree can mean an advanced career. Move your life forward with a [masters](#master-of-liberal-arts) in liberal arts degree from Temple University’s College of Liberal Arts. Get started today by familiarizing yourself with our [admissions process](#admissions-process), [transfer](#transfer-of-credit) opportunities and [course offerings](#course-offerings).
 
