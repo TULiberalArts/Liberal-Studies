@@ -6,8 +6,8 @@ published: true
 # meta-data variables
 title: Undergraduate
 description: >-
-  The Bachelor of Arts in liberal studies was developed to meet the needs of
-  working adults.
+  Earn a B.A. in Liberal Studies at Temple University’s College of Liberal Arts. Take advantage of
+  flexible curriculum and courses to earn your college degree while you work.
 keywords: 'bachelors of arts, liberal studies, curriculum, courses, admissions'  
 # custom variables
 sidebar: true
