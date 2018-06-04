@@ -6,7 +6,8 @@ published: true
 # meta-data variables
 title: Next Stops
 description: >-
-  There are so many things you can do with our bachelor’s and master’s degrees.
+  See where a MLA or BLS in Liberal Studies from Temple University’s College of Liberal Arts can take you! 
+  Make your declaration; learn about transfer, career, and internship opportunities; visit us; and apply.
 keywords: 'transfer, internship, careers, apply, visit, mla, bls'
 # custom variables
 ---
