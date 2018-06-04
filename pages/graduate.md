@@ -6,8 +6,8 @@ published: true
 # meta-data variables
 title: Graduate
 description: >-
-  The hallmark of the MLA program is its interdisciplinary flexibility in 
-  allowing students to develop their own intellectual and career pathways.
+  Earn a Master of Liberal Arts from Temple University’s College of Liberal Arts. Find out more
+  about our admissions process, transfer options, independent study, and course offerings.
 keywords: 'liberal arts, masters degree, course offerings, admissions, independent study, transfer of credits'
 # custom variables
 sidebar: true
