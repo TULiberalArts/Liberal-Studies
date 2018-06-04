@@ -6,9 +6,8 @@ published: true
 # meta-data variables
 title: Home
 description: >-
-  Take advantage of affordable, flexible and interdisciplinary undergraduate and
-  graduate studies in the liberal arts. Our programs are designed to accommodate
-  the unique needs of working adults.
+  Balance education and work with a Bachelor of Arts in Liberal Studies or a Master of Liberal Arts
+  at Temple University’s College of Liberal Arts. View our undergraduate academic offerings.
 keywords: 'humanities, liberal studies, undergraduate, mla, academic offerings'
 # custom variables
 feature: true
