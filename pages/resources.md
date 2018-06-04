@@ -6,7 +6,7 @@ published: true
 # meta-data variables
 title: Resources
 description: >-
-  Frequently Asked Questions about our BA in Liberal Studies
+  Read up on FAQs about the Liberal Studies program at the College of Liberal Arts at Temple University.
 keywords: 'faq, resources, liberal studies, Temple'  
 # custom variables
 ---
