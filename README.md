@@ -7,7 +7,7 @@ Liberal Studies is statically generated with [Jekyll](https://jekyllrb.com) and 
 | Links |  |
 | --- | --- |
 | Development | https://develop.cla.temple.edu/liberal-studies/ |
-| Production |  |
+| Production | https://www.cla.temple.edu/liberal-studies/ |
 
 ## Content Structure
 
