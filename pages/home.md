@@ -10,6 +10,8 @@ description: >-
   at Temple University’s College of Liberal Arts. View our undergraduate academic offerings.
 keywords: 'humanities, liberal studies, undergraduate, mla, academic offerings'
 # custom variables
+promotion-table: true
+sidebar: false
 feature: true
 feature-title: Rediscover the Liberal Arts
 feature-image: hero_bg.png
