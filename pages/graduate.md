@@ -10,8 +10,8 @@ description: >-
   about our admissions process, transfer options, independent study, and course offerings.
 keywords: 'liberal arts, masters degree, course offerings, admissions, independent study, transfer of credits'
 # custom variables
-sidebar: true
-sidebar_content: sidebars/graduate.html
+
+sidebar: sidebars/graduate.html
 ---
 An advanced degree can mean an advanced career. Move your life forward with a [masters](#master-of-liberal-arts) in liberal arts degree from Temple University’s College of Liberal Arts. Get started today by familiarizing yourself with our [admissions process](#admissions-process), [transfer](#transfer-of-credit) opportunities and [course offerings](#course-offerings).
 

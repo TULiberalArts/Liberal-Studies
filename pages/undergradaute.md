@@ -10,8 +10,8 @@ description: >-
   flexible curriculum and courses to earn your college degree while you work.
 keywords: 'bachelors of arts, liberal studies, curriculum, courses, admissions'  
 # custom variables
-sidebar: true
-sidebar_content: sidebars/undergraduate.html
+
+sidebar: sidebars/undergraduate.html
 ---
 Temple University’s College of Liberal Arts is the ideal learning environment in which to earn your [bachelors of arts](#ba-in-liberal-studies) in liberal studies degree. The [curriculum and courses](#curriculum-and-courses) are flexible enough for you to complete your college degree quickly while still employed, and the skills and lessons you learn will prepare you to take the next big step in your career.
 
