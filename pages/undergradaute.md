@@ -31,5 +31,3 @@ Students select a concentration of five courses all taken in a single department
 
 ## Ambler and Harrisburg Campuses Liberal Studies Degree
 You’ve got options when it comes to earning your Temple bachelor of arts in liberal studies degree. If you can’t make it to our Main Campus in Philadelphia, taking courses at our Ambler or Harrisburg campus might be a more convenient option for you. You can complete your entire liberal studies degree from start to finish at either campus, both of which feature smaller class sizes and a different type of campus experience. At Ambler, you’ll be a part of a close-knit academic community that is only 18 miles from Main Campus while Harrisburg students start their degrees in Pennsylvania’s capital. Temple also has generous transfer agreements with many community colleges. Head to the [Ambler](https://ambler.temple.edu/academics/degree-programs/undergraduate) or [Harrisburg](https://harrisburg.temple.edu/undergraduate-programs/programs/undergraduate-programs-harrisburg) websites for more information. 
-
-When you are ready to apply, submit your application online at [admissions.temple.edu/apply](admissions.temple.edu/apply).
