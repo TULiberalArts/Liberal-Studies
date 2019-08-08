@@ -30,6 +30,7 @@ The **Master of Liberal Arts** degree allows graduate-level students to particip
 - [Bachelor of Arts in Liberal Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/liberal-studies/ba-liberal-studies/)
 - [Bachelor of Arts in Liberal Studies- Social Science Track with Anthropology Concentration](http://bulletin.temple.edu/undergraduate/liberal-arts/liberal-studies/ba-liberal-studies/#academicplantext)
 - [Bachelor of Arts in Liberal Studies- Humanities Track with a Greek and Roman Classics Concentration](http://bulletin.temple.edu/undergraduate/liberal-arts/liberal-studies/ba-liberal-studies/#academicplantext)
+- [Master of Liberal Arts, M.L.A](https://bulletin.temple.edu/graduate/scd/cla/liberal-arts-mla/)
 
 ___
 
