@@ -33,7 +33,7 @@ The **Master of Liberal Arts** degree allows graduate-level students to particip
 ___
 
 <div class="row row-wide">
-  <div class="col m12 l4">{% include cards/card2-image.html
+  <div class="col m12 l4">{% include cards/card2-fixed.html
     title="Get the Skills Employers Want"
     content="Employers consistently say that they're looking for the analytical and communication skills afforded by the liberal arts education. Our programs build on the skills you already have - wherever you are in your career path."
     image=""
@@ -41,7 +41,7 @@ ___
     button-text="Learn More" %}
   </div>
   <div class="row row-wide">
-    <div class="col m12 l4">{% include cards/card2-image.html
+    <div class="col m12 l4">{% include cards/card2-fixed.html
       title="Highly Customizable Program"
       content="We know you're busy. Our undergraduate program is designed to fit you - your interests, your needs, even your schedule."
       image=""
@@ -49,7 +49,7 @@ ___
       button-text="Learn More" %}
     </div>
     <div class="row row-wide">
-      <div class="col m12 l4">{% include cards/card2-image.html
+      <div class="col m12 l4">{% include cards/card2-fixed.html
         title="Questions?"
         content="How will this help you in your current job? How do you earn credits for your work experience? Is it really worth going back to school? (Yes!) Our FAQ's have you covered."
         image=""
