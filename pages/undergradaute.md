@@ -32,7 +32,7 @@ Students select a concentration of five courses all taken in a single department
 ## Ambler and Center City Campuses Liberal Studies Degree
 You’ve got options when it comes to earning your Temple bachelor of arts in liberal studies degree, that includes where you study. Taking courses at our Ambler or Center City campus might be a more convenient option for you. You can complete your entire liberal studies degree from start to finish at either campus, both of which feature smaller class sizes and a different type of campus experience. At Ambler, you’ll be a part of a close-knit academic community that is only 18 miles from Main Campus. Temple also has generous transfer agreements with many community colleges. Head to the [Ambler](https://ambler.temple.edu/academics/degree-programs/undergraduate) or [Center City](https://www.google.com/url?q=https://centercity.temple.edu/&sa=D&ust=1584372839536000&usg=AFQjCNHGH7TyvBrkfahaGIBO3phJ4-PVRw) websites for more information. 
 
-- **B.A. in Liberal Studies: Frequently Asked Questions**
+### B.A. in Liberal Studies: Frequently Asked Questions**
 
 <details>
   <summary><strong>How will a bachelor of arts in liberal studies help me in my current job?</strong></summary>
