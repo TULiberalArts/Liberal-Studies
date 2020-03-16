@@ -31,3 +31,41 @@ Students select a concentration of five courses all taken in a single department
 
 ## Ambler and Center City Campuses Liberal Studies Degree
 You’ve got options when it comes to earning your Temple bachelor of arts in liberal studies degree, that includes where you study. Taking courses at our Ambler or Center City campus might be a more convenient option for you. You can complete your entire liberal studies degree from start to finish at either campus, both of which feature smaller class sizes and a different type of campus experience. At Ambler, you’ll be a part of a close-knit academic community that is only 18 miles from Main Campus. Temple also has generous transfer agreements with many community colleges. Head to the [Ambler](https://ambler.temple.edu/academics/degree-programs/undergraduate) or [Center City](https://www.google.com/url?q=https://centercity.temple.edu/&sa=D&ust=1584372839536000&usg=AFQjCNHGH7TyvBrkfahaGIBO3phJ4-PVRw) websites for more information. 
+
+- **B.A. in Liberal Studies: Frequently Asked Questions**
+
+<details>
+  <summary><strong>How will a bachelor of arts in liberal studies help me in my current job?</strong></summary>
+<p>Our bachelor of arts in liberal studies focuses on the development of critical thinking, research and communication - these skills can greatly assist you in any job, particularly if you aspire to move up in your profession. In addition, by receiving a bachelor’s degree, you will have access to a vast alumni network as well as ongoing support from <a href="http://www.temple.edu/provost/careercenter/" title="Temple’s Career Center">Temple’s Career Center</a>.</p>
+</details>
+
+<details>
+  <summary><strong>What sort of new career opportunities will be available to me with this degree?</strong></summary>
+<p>In addition to the possibility of a promotion in your current profession, a bachelor’s degree in liberal studies could also open new doors of opportunity for graduate school and further professional development. You also have the option to pursue internship opportunities to experience different professional fields.</p>
+</details>
+
+<details>
+  <summary><strong>How much will this degree cost me? And how does it compare to other regional universities and colleges?</strong></summary>
+<p>Comparatively, Temple has one of the least expensive per credit rate in the Philadelphia region. For details, please visit the <a href="http://bursar.temple.edu/tuition-and-fees/tuition-rates" title="Bursar’s tuition calculator">Bursar’s tuition calculator</a>.</p> 
+</details>
+
+<details>
+  <summary><strong>Within liberal studies, what are my options when choosing a track? Can I design my own track of study?</strong></summary>
+<p>Within the liberal studies program, you will have the option to choose either the Social Science or Humanities track. You can design your course of study by choosing to concentrate in one particular program/department. You can also select electives in social sciences or humanities that support your professional and personal goals.</p>
+</details>
+
+<details>
+  <summary><strong>How do I earn credits for work experience?</strong></summary>
+<p>You will have the opportunity to earn up to six elective credits by preparing a portfolio detailing your work experience.</p>
+</details>
+
+<details>
+  <summary><strong>Does this program include the opportunity for an internship?</strong></summary>
+<p>Yes, like many College of Liberal Arts programs, you will have an opportunity to work in a desired field and location for internship credits. For more information, connect with our Professional Development staff in the <a href="https://liberalarts.temple.edu/advising/professional-development" title="Center for Academic Advising and Professional Development">Center for Academic Advising and Professional Developmentr</a>.</p>
+</details>
+
+<details>
+  <summary><strong>What makes this different than other undergraduate CLA degrees?</strong></summary>
+<p>The bachelor of arts in liberal studies has been created for those who never got the chance to finish their degree. This degree gives you the opportunity to have a say in your higher educational plan, work at your own pace, and expand your skills for current and future employment. In addition, this degree not only gives you the opportunity to transfer credits for course work you have already completed, but also receive credits for your existing work experience.</p>
+</details>
+
