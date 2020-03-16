@@ -2,7 +2,7 @@
 # global predefined variables
 layout: tla_page
 permalink: /resources/
-published: true
+published: false
 # meta-data variables
 title: Resources
 description: >-
