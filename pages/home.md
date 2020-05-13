@@ -27,8 +27,8 @@ The **Bachelor of Arts in Liberal Studies** degree allows you to design your own
 The **Master of Liberal Arts** degree allows graduate-level students to participate in a varied and rich student and faculty network across different generations, academic interests and professional ambitions. You can tailor your own course of study based on your academic interests, professional objectives and personal goals while selecting from a broad range of course offerings without being confined to a single department or discipline. This program will challenge you intellectually; improve your analytical, research and writing skills; and open doors to new career possibilities.
 
 ## Academic Offerings and Tracks
-- [Bachelor of Arts in Liberal Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/liberal-studies/ba-liberal-studies/) - Two tracks **Social Science Track** or **Humanities Track**<br>
-- [Master of Liberal Arts, M.L.A](https://bulletin.temple.edu/graduate/scd/cla/liberal-arts-mla/)
+- [Bachelor of Arts in Liberal Studies](https://www.temple.edu/academics/degree-programs/liberal-studies-major-la-libs-ba) - Two tracks **Social Science Track** or **Humanities Track**<br>
+- [Master of Liberal Arts, M.L.A](https://www.temple.edu/academics/degree-programs/liberal-arts-mla-la-liba-mla)
 
 ___
 
