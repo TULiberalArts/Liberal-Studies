@@ -4,12 +4,12 @@ layout: tla_ppv_page
 permalink: /bls/
 published: true
 # meta-data variables
-title: Bachelor of Arts in Liberal Studies Degree
+title: Finish Your Liberal Arts Degree Online | Temple University
 description: >-
-  Our online graduate-level Spanish for Health Professions Certificate program
-  teaches medical Spanish for nurses, physicians & health care professionals.
-keywords: 'learn medical Spanish, medical Spanish for nurses, medical Spanish for physicians, 
-medical Spanish grad program'
+ Transfer up to 78 college credits and finish your liberal arts undergraduate degree completely online. 
+ You can even get six credits for your experience!
+keywords: 'online liberal studies bachelor degree, flexible bachelor degree in liberal studies, transfer liberal arts credits, 
+finish liberal studies undergraduate degree'
 # custom variables
 ppv_form: forms/ppv-bls.html
 hero: hero/ppv-bls.html
