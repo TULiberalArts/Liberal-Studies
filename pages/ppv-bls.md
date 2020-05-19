@@ -12,7 +12,7 @@ keywords: 'learn medical Spanish, medical Spanish for nurses, medical Spanish fo
 medical Spanish grad program'
 # custom variables
 ppv_form: forms/ppv-bls.html
-hero: hero/ppv-gradhealth-cert.html
+hero: hero/ppv-bls.html
 ---
 
 Need a fast, convenient and affordable way to finish a bachelor of liberal studies degree? At Temple University’s College of Liberal Arts (CLA), you can transfer up to 78 credits from an accredited college or university into our online degree in Liberal Studies. The 123-credit program is perfect for transfer students who are non-traditional, adult learners looking for an expedient way to complete their undergraduate bachelor’s degree. 
