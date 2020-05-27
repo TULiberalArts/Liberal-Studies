@@ -15,18 +15,17 @@ sidebar: sidebars/undergraduate.html
 ---
 Temple University’s College of Liberal Arts is the ideal learning environment in which to earn your [bachelors of arts](#ba-in-liberal-studies) in liberal studies degree. The [curriculum and courses](#curriculum-and-courses) are flexible enough for you to complete your college degree quickly while still employed, and the skills and lessons you learn will prepare you to take the next big step in your career.
 
-## B.A. in Liberal Studies
+## Bachelor of Arts in Liberal Studies
 The bachelor of arts in liberal studies was developed to meet the needs of working adults. You will progress through a challenging curriculum of your own design while enhancing the analytical, reading, writing and research skills crucial to any academic or professional career. As a liberal studies major, you will also benefit from flexible course scheduling through classroom and online offerings, credits for work experience, and the opportunity to apply credits already awarded to your Temple degree.
 
 Learn More about the [BA in Liberal Studies](https://www.temple.edu/academics/degree-programs/liberal-studies-major-la-libs-ba)
 
-## Online BA in Liberal Studies
+## Online Bachelor of Arts in Liberal Studies
 The online Bachelors of Arts in Liberal Studies degree is a 123-credit program with the same core curriculum as the on-campus Bachelor of Arts in Liberal Studies degree program. However, all courses are completely online, allowing the program to fit seamlessly into the busy work and life schedules of working adult students. 
 
 The program is only for nontraditional transfer students (freshman students are NOT eligible to enroll). You can transfer up to 78 eligible transfer credits previously completed at Temple or another accredited institution(s). And because your professional experience is as valuable as your academic experience, you may also submit a portfolio to receive up to six additional credits for prior professional work experience. That means all the hard work you’ve done in the classroom and on the job will count towards your Liberal Studies bachelor’s degree, expediting your timeline to graduation. 
 
 Please contact Keith Gumery at [gumery@temple.edu](mailto:gumery@temple.edu) to get started. To learn more about the degree requirements visit the [Liberal Studies Undergraduate Bulletin](https://bulletin.temple.edu/undergraduate/liberal-arts/liberal-studies/ba-liberal-studies/#requirementstext).
-
 
 ## Curriculum and Courses
 Students must select a track, either Humanities or Social Sciences and follow the requirements of that track. Critical Thinking (either Philosophy 1055 for Humanities students or Psychology 1004 for Social Science majors) is the foundations-level course for this major. [Learn more about the required courses and curriculum](https://www.temple.edu/academics/degree-programs/liberal-studies-major-la-libs-ba/cla-liberal-studies-ba-required-courses). 
@@ -34,7 +33,7 @@ Students must select a track, either Humanities or Social Sciences and follow th
 ## Ambler and Center City Campuses Liberal Studies Degree
 You’ve got options when it comes to earning your Temple bachelor of arts in liberal studies degree, that includes where you study. Taking courses at our Ambler or Center City campus might be a more convenient option for you. You can complete your entire liberal studies degree from start to finish at either campus, both of which feature smaller class sizes and a different type of campus experience. At Ambler, you’ll be a part of a close-knit academic community that is only 18 miles from Main Campus. Temple also has generous transfer agreements with many community colleges. Head to the [Ambler](https://ambler.temple.edu/academics/degree-programs/undergraduate) or [Center City](https://www.google.com/url?q=https://centercity.temple.edu/&sa=D&ust=1584372839536000&usg=AFQjCNHGH7TyvBrkfahaGIBO3phJ4-PVRw) websites for more information. 
 
-- **B.A. in Liberal Studies: Frequently Asked Questions**
+- **Bachelor of Arts in Liberal Studies: Frequently Asked Questions**
 
 <details>
   <summary><strong>How will a bachelor of arts in liberal studies help me in my current job?</strong></summary>
