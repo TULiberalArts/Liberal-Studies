@@ -35,4 +35,4 @@ Temple has one more way to help you quickly finish your Liberal Studies degree a
 Get Started on Getting Done
 {:.fake-h2}
 
-Ready to apply? Please fill out the information form above or contact Keith Gumery at gumery@temple.edu. To learn more about the degree requirements, visit the Liberal Studies section in the Undergraduate Bulletin
+Ready to apply? Please fill out the information form above or contact Keith Gumery at [gumery@temple.edu](mailto:gumery@temple.edu). To learn more about the degree requirements, visit the Liberal Studies section in the Undergraduate Bulletin
