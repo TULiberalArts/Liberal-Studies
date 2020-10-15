@@ -28,7 +28,7 @@ The **Master of Liberal Arts** degree allows graduate-level students to particip
 
 ## Academic Offerings and Tracks
 - [Bachelor of Arts in Liberal Studies](https://www.temple.edu/academics/degree-programs/liberal-studies-major-la-libs-ba) - Two tracks **Social Science Track** or **Humanities Track**<br>
-- [Online Bachelor of Arts in Liberal Studies](/liberal-studies/undergraduate#online-bachelor-of-arts-in-liberal-studies) **New online offering to complete your degree in Liberal Studies!**<br>
+- [Online Bachelor of Arts in Liberal Studies](/liberal-studies/undergraduate#online-bachelor-of-arts-in-liberal-studies) - **New online offering to complete your degree in Liberal Studies!**<br>
 - [Master of Liberal Arts, M.L.A](https://www.temple.edu/academics/degree-programs/liberal-arts-mla-la-liba-mla)
 
 ___
